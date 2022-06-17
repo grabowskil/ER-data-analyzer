@@ -59,7 +59,6 @@ def main():
         "https://eldenring.wiki.fextralife.com/Remembrance",
         "https://eldenring.wiki.fextralife.com/Tools",
         "https://eldenring.wiki.fextralife.com/Whetblades",
-        "https://eldenring.wiki.fextralife.com/Skills",
         "https://eldenring.wiki.fextralife.com/Small+Shields",
         "https://eldenring.wiki.fextralife.com/Medium+Shields",
         "https://eldenring.wiki.fextralife.com/GreatShields"

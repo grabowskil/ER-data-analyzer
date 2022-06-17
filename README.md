@@ -6,5 +6,5 @@ I think the answers are in the text and don't want to wait on the DLC, but when 
 ### Resources
 * https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki
 * https://www.freecodecamp.org/news/scraping-wikipedia-articles-with-python/
-* https://docs.python-guide.org/starting/install3/osx/
 * https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref
+* https://github.com/mechatroner/RBQL

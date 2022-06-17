@@ -1,3 +1,4 @@
+categories                                     ;code                                      ;description
 Equipment & Magic, Weapons, Daggers            ;Dagger                                    ;A standard dagger with a straight blade. Though modest in reach and capacity for harm, this weapon is light enough to jab in rapid succession and delivers devastating critical hits.
 Equipment & Magic, Weapons, Daggers            ;Parrying Dagger                           ;A knife with curved handguards. Designed to parry, turning foes' attacks against them.  For master of combat who anticipate every enemy strike and counter accordingly, this weapon is all they need.
 Equipment & Magic, Weapons, Daggers            ;Misericorde                               ;Dagger favored by military physicians in white.  Medicine is mercy. and mercy upon the battlefield is ruthless. Beware the killers clothes as men of compassion
@@ -24,8 +25,8 @@ Equipment & Magic, Weapons, Straight Swords    ;Cane Sword                      
 Equipment & Magic, Weapons, Straight Swords    ;Warhawk's Talon                           ;Talon-swords are affixed to the legs of the Stormveil's warhawks, but this one has been repurposed for human use. The blade is thin and lightweight so as not to obstruct the hawk's mobility.
 Equipment & Magic, Weapons, Straight Swords    ;Lazuli Glintstone Sword                   ;A sword with a glintstone in its handguards. Wielded by scholars of the Lazuli Conspectus who seek to master Carian sorcery. Deals magic damage. Apparently once used as a staff of sorcery, this sword is made of wood.
 Equipment & Magic, Weapons, Straight Swords    ;Carian Knight's Sword                     ;Straight sword embedded with a blue glintstone.  These knights' swords could serve as catalysts, letting them wield sorcerous battle skills. Despite numbering fewer than twenty, this power made them a match for even the champions of gold in battle.
-Equipment & Magic, Weapons, Straight Swords    ;Crystal Sword                             ;"Sword fashioned from pure crystal; a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. The inscrutable Crystalians have but one clear purpose; to safeguard their crystals unto the end. One theory posits that they yearn for the return of their creator who will carve for them new brethren.  "
-Equipment & Magic, Weapons, Straight Swords    ;Rotten Crystal Sword                      ;"Sword fashioned from pure crystal; a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. "
+Equipment & Magic, Weapons, Straight Swords    ;Crystal Sword                             ;"Sword fashioned from pure crystal, a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. The inscrutable Crystalians have but one clear purpose; to safeguard their crystals unto the end. One theory posits that they yearn for the return of their creator who will carve for them new brethren.  "
+Equipment & Magic, Weapons, Straight Swords    ;Rotten Crystal Sword                      ;"Sword fashioned from pure crystal, a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. "
 Equipment & Magic, Weapons, Straight Swords    ;Miquellan Knight's Sword                  ;Sword forged by servants of Miquella of the Haligtree, with a design modeled after those carried by Carian knights. Instead of glintstone however, amber from the Haligtree is embedded in the blade.
 Equipment & Magic, Weapons, Straight Swords    ;Ornamental Straight Sword                 ;Slender straight sword patterned after an antique ornament. After falling from grace, the dregs of the golden lineage sought power and purpose in the past.
 Equipment & Magic, Weapons, Straight Swords    ;Golden Epitaph                            ;"A sword made to commemorate the death of Godwyn the Golden, first of the demigods to die. Infused with the humble prayer of a young boy; ""O brother, lord brother, please die a true death."" "
@@ -93,7 +94,7 @@ Equipment & Magic, Weapons, Curved Greatswords ;Monk's Flameblade               
 Equipment & Magic, Weapons, Curved Greatswords ;Beastman's Cleaver                        ;Curved greatsword of colossal size forged of dull iron and wielded by the beastmen of Farum Azula.
 Equipment & Magic, Weapons, Curved Greatswords ;Bloodhound's Fang                         ;Curved greatsword with a gently undulating blade wielded by Bloodhound Knights. A fearsome blade capable of brutal airborne attacks.
 Equipment & Magic, Weapons, Curved Greatswords ;Onyx Lord's Greatsword                    ;Greatsword forged from golden-hued meteoric ore.  A weapon unique to the Onyx Lords, a race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago.
-Equipment & Magic, Weapons, Curved Greatswords ;Zamor Curved Sword                        ;Weapon wielded by the knights of Zamor who earned great In apparent devotion to winter, the curved blade is styled after an
+Equipment & Magic, Weapons, Curved Greatswords ;Zamor Curved Sword                        ;Weapon wielded by the knights of Zamor who earned great renown during the War against the Giants. In apparent devotion to winter, the curved blade is styled after an icy wind and imbued with a powerful frost effect.
 Equipment & Magic, Weapons, Curved Greatswords ;Magma Wyrm's Scalesword                   ;Curved greatsword wielded by Magma Wyrms. The shape resembles a dragon's jaw and is covered in hard scales. It's said these land-bound dragons were once humans heroes who partook in dragon communion, a grave transgression for which they were cursed to crawl the earth upon their bellies, shadows of their former selves.
 Equipment & Magic, Weapons, Curved Greatswords ;Morgott's Cursed Sword                    ;Warped blade of shifting hue used by Morgott, the Omen King.  The accused blood that Morgott recanted and sealed away reformed into this blade.
 Equipment & Magic, Weapons, Katanas            ;Uchigatana                                ;A katana with a long single-edged curved blade.  The blade, with its undulating design, boasts extraordinary sharpness, and ts slash attacks cause blood loss.
@@ -117,7 +118,7 @@ Equipment & Magic, Weapons, Axes               ;Warped Axe                      
 Equipment & Magic, Weapons, Axes               ;Jawbone Axe                               ;"Axe made from a herbivore's skull. Weapon of the ancestral  followers who disdain metal. This axe is more of a bludgeon; it forgoes a bladed edge, instead  using the beast's molar teeth to buffet foes, dealing strike damage. "
 Equipment & Magic, Weapons, Axes               ;Iron Cleaver                              ;Fairly large iron cleaver, commonly used by the maltreated Misbegotten.  Steeped in resentment, these weapons are swung wildly and relentlessly, often after rushing up to foes.
 Equipment & Magic, Weapons, Axes               ;Highland Axe                              ;Single-sided axe used by the warriors of the highlands.  Brave combatants begin battle by crying out their names. Roars are enhanced by this weapon.
-Equipment & Magic, Weapons, Axes               ;Celebrant's Cleaver                       ;Cleaver decorated with many-colored fabrics. Ceremonial tool used by dancers during the festivities of  Crafted from human bone. Grants trace amounts of runes upon landing attacks.
+Equipment & Magic, Weapons, Axes               ;Celebrant's Cleaver                       ;Cleaver decorated with many-colored fabrics. Ceremonial tool used by dancers during the festivities of Dominula, Windmill Village. Crafted from human bone. Grants trace amounts of runes upon landing attacks.
 Equipment & Magic, Weapons, Axes               ;Sacrificial Axe                           ;Hatchet used in ancient sacrificial rite. A Deathbird is depicted as a malevolent deity. The power of the rite yet lingers. A small amount of FP is restored upon slaying a foe.
 Equipment & Magic, Weapons, Axes               ;Icerind Hatchet                           ;"A hatchet with a frost-coated blade. One of several gifts given by Castle Sol in the distant north. Known as ""freezing fog,"" the blade is thought to be a dragon's scale. Inflicts a powerful frost effect. "
 Equipment & Magic, Weapons, Axes               ;Ripple Blade                              ;Unique weapon wielded by young Albinaurics, this sword is modelled after the ripples that are thought to be the origin of their species. Its attack power is greatly enhanced with one's arcane attribute.
@@ -222,7 +223,7 @@ Equipment & Magic, Weapons, Halberds           ;Dragon Halberd                  
 Equipment & Magic, Weapons, Halberds           ;Loretta's War Sickle                      ;Intricately crafted silver war sickle wielded by Loretta, Knight of the Haligtree.
 Equipment & Magic, Weapons, Halberds           ;Commander's Standard                      ;A beaten red battle standard is furled around this time-worn halberd. Even after his lord was fled, Commander O'Neil continued to brandish this flag in the devastation of the rot-eaten field of battle, the sole veteran who remembers this battle with pride.
 Equipment & Magic, Weapons, Reapers            ;Scythe                                    ;Large scythe featuring a long, slender blade. Designed to reap, this weapon is capable of rapidly inflicting blood loss while also slipping through an enemy's guard.  In the hands of a highly dexterous wielder it is capable of striking fear into the heart of any foe.
-Equipment & Magic, Weapons, Reapers            ;Grave Scythe                              ;
+Equipment & Magic, Weapons, Reapers            ;Grave Scythe                              ;Greatscythe comprised of a large blade affixed to a crooked stick. Weapon wielded by the aged grave keepers who tend the forgotten graveyards throughout the Lands Between. This weapon is said to have served as a charm against evil spirits in times of old.
 Equipment & Magic, Weapons, Reapers            ;Halo Scythe                               ;War scythe of the Cleanrot Knights who fought alongside Malenia, Blade of Miquella. This was the weapon of commanders in Malenia's army, and the half-halo blade deals holy damage.
 Equipment & Magic, Weapons, Reapers            ;Winged Scythe                             ;Sacred scythe resembling a pair of white wings. Deals holy damage. According to pagan belief, white-winged maidens are said to be Death's gentle envoys.
 Equipment & Magic, Weapons, Whips              ;Whip                                      ;A leather whip. Not originally used for combat, but as an instrument of pain. Through its supple attacks cannot be thwarted by parrying or even guarding, it is incapable of dealing critical hits.
@@ -268,10 +269,10 @@ Equipment & Magic, Weapons, Glintstone Staffs  ;Carian Glintblade Staff         
 Equipment & Magic, Weapons, Glintstone Staffs  ;Albinauric Staff                          ;"Short staff with a blue glintstone embedded. Wielded by the albinaurics of old. The albinaurics harbor a secret; they cast sorcery with their innate arcaneness. "
 Equipment & Magic, Weapons, Glintstone Staffs  ;Staff of Loss                             ;Staff missing its glintstone. Wielded by sorcerers who believe that discovery comes through acts of asceticism. This staff only distinguishes itself when casting invisibility sorceries, but that is reason enough for some to wield it.
 Equipment & Magic, Weapons, Glintstone Staffs  ;Gelmir Glintstone Staff                   ;Staff with a forked tip, embedded with red glintstones. Enhances lava sorceries. The Man-Serpents of Mt. Gelmir draw from faith in addition to intelligence to enhance the potency of their sorcery.
-Equipment & Magic, Weapons, Glintstone Staffs  ;Crystal Staff                             ;
+Equipment & Magic, Weapons, Glintstone Staffs  ;Crystal Staff                             ;"Staff fashioned from pure crystal; a deed impossible for a human. Enhances Crystalian sorceris. The Crystalian's faint cognition is know as the 'wisdom of stone.' This staff can only be weilded by those of intellect high enough to grasp such wisdom."
 Equipment & Magic, Weapons, Glintstone Staffs  ;Rotten Crystal Staff                      ;"Staff fashioned from pure crystal; a deed impossible for a human. It festers with scarlet rot. Enhances Crystalian sorceries. "
 Equipment & Magic, Weapons, Glintstone Staffs  ;Meteorite Staff                           ;Staff embedded with a dark purple glintstone, said to be the fragment of a meteorite. Boasts high sorcery scaling and boosts gravity sorceries as well.
-Equipment & Magic, Weapons, Glintstone Staffs  ;Staff of the Guilty                       ;
+Equipment & Magic, Weapons, Glintstone Staffs  ;Staff of the Guilty                       ;A heretical staff fashioned from a smoldering, withered sapling that turns the blood of sacrifices pierced by it into glintstone. Similar to hex magic. Sorceries are scaled with faith rather than intelligence when wielding this staff which enhances Thorn sorceries in particular
 Equipment & Magic, Weapons, Glintstone Staffs  ;Prince of Death's Staff                   ;Staff embedded with sullied amber, said to be a very part of the Prince of Death. Enhances death sorceries. One of the staves deemed heretical by the academy for its ability to allow sorceries to be augmented through faith in addition to intelligence.
 Equipment & Magic, Weapons, Sacred Seals       ;Finger Seal                               ;A sacred seal bestowed by a Finger Maiden which serves as a catalyst for casting sacred incantations. Incantations must be memorized first at a site of grace, and a sacred seal must be equipped to cast them.
 Equipment & Magic, Weapons, Sacred Seals       ;Erdtree Seal                              ;A formless sacred seal decorated with an Erdtree crest, once the focus of religion in the Lands Between.
@@ -422,7 +423,7 @@ Equipment & Magic, Armor, Helms                ;Fire Prelate Helm               
 Equipment & Magic, Armor, Helms                ;Foot Soldier Helm                         ;Wholly unembellished iron helm.
 Equipment & Magic, Armor, Helms                ;Gilded Foot Soldier Cap                   ;Flanged cap made from gilded iron. Issued to foot soldiers protecting the royal capital of Leyndell.
 Equipment & Magic, Armor, Helms                ;Godskin Noble Hood                        ;Hood made by sewing together patches of smooth skin.
-Equipment & Magic, Armor, Helms                ;Grass Hair Ornament                       ;
+Equipment & Magic, Armor, Helms                ;Grass Hair Ornament                       ;A headdress made from wildflowers. Wearing this might make you less easy to spot.
 Equipment & Magic, Armor, Helms                ;Greathood                                 ;"Hood far larger than the head it is meant to cover. A burial shroud of sorts for those who discover, at long last, the truth they sought. Increases intelligence and faith to the detriment of HP. ""Yes, surely this is the moon that young Rennala gazed upon."" "
 Equipment & Magic, Armor, Helms                ;Guardian Mask                             ;Engraved golden mask. Worn by the gaurdians of the Minor Erdtrees. In accordance with an ancient pact with the Erdtree, it is said that   their deaths lead not to destruction, but instead to renewed. eternal  life as guardians.
 Equipment & Magic, Armor, Helms                ;Haima Glintstone Crown                    ;One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy. Increases intelligence and strength to the detriment of FP. Scholars of the Haima Conspectus sought the power to quell conflict, and to this end studied the sorceries of cannon fire and the gavel.
@@ -451,7 +452,7 @@ Equipment & Magic, Armor, Helms                ;Raya Lucarian Helm              
 Equipment & Magic, Armor, Helms                ;Redmane Knight Helm                       ;Helm worn by knights who fought by General Radahn's side. The red plume is a symbol of Radahn's pedigree as Lord Radagon's son - the mane of the proud Red Lion.
 Equipment & Magic, Armor, Helms                ;Royal Knight Helm                         ;Silver helm of Loretta, a Knight who served Miquella's Haligtree. Loretta, once a royal Carian Knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.
 Equipment & Magic, Armor, Helms                ;Royal Remains Helm                        ;Helm graced with gold human bones. Slowly replenishes HP when HP is reduced. It is said that the bones belong to an ancient lord - the soulless king. The lord of the lost and desperate, who was known as Ensha.
-Equipment & Magic, Armor, Helms                ;Sacred Crown Helm                         ;
+Equipment & Magic, Armor, Helms                ;Sacred Crown Helm                         ;Flanged iron cap adorned with a crown of unalloyed gold. Increases faith. Worn by foot soldiers sworn to the Haligtree. Who is it that Miquella shall bless, if not the low and the meek?
 Equipment & Magic, Armor, Helms                ;Sanguine Noble Hood                       ;Hood of dyed black cloth featuring gold embroidery.
 Equipment & Magic, Armor, Helms                ;Skeletal Mask                             ;Skeletal mask that tightly grips the face. This ritual implement relentlessly digs into the wearer's face, preserving one's human instincts while dressed in imitation of the Deathbirds.
 Equipment & Magic, Armor, Helms                ;Spellblade's Pointed Hat                  ;Glintstone sorcerer Rogier's traveling attire, graced with an intricate, aristocratic decoration. Strengthens glintstone sorcery skills.  Rogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.
@@ -494,7 +495,7 @@ Equipment & Magic, Armor, Chest Armor          ;Errant Sorcerer Robe            
 Equipment & Magic, Armor, Chest Armor          ;Exile Armor                               ;Damaged armor draped with a large deep-red cloth.
 Equipment & Magic, Armor, Chest Armor          ;Eye Surcoat                               ;Brown surcoat draped over chainmail.  The insignia emblazoned on the front marks out the wearer as the eyes and ears of Sir Gideon the All-Knowing.
 Equipment & Magic, Armor, Chest Armor          ;Fia's Robe                                ;"Robe of black cloth that covers the entire body. The fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth. "
-Equipment & Magic, Armor, Chest Armor          ;Fia's Robe (Altered)                      ;
+Equipment & Magic, Armor, Chest Armor          ;Fia's Robe (Altered)                      ;Worn by Fia, the Deathbed Companion, on her journey after being exiled from her home.
 Equipment & Magic, Armor, Chest Armor          ;Fell Omen Cloak                           ;"""A cloak of ragged fur worn about the exposed body of Margit, the Fell Omen. Having slaughtered countless champions during the Shattering, the Fell Omen has become a horror to those who harbor ambitions for the Erdtree, or for Lordship."" "
 Equipment & Magic, Armor, Chest Armor          ;Finger Maiden Robe                        ;Robe worn by maidens who serve the Two Fingers.
 Equipment & Magic, Armor, Chest Armor          ;Fire Monk Armor                           ;Black iron armor adorned with a red cloth. The grotesque face sculpted on the chest is said to depict the corrupt ancient god of the flame.
@@ -502,7 +503,7 @@ Equipment & Magic, Armor, Chest Armor          ;Fur Raiment                     
 Equipment & Magic, Armor, Chest Armor          ;Gelmir Knight Armor                       ;Armor worn by knights once royal to Praector Rykard. It bears an emblem that none wear any longer, standing as it does for a lord that fell from loft ambition into gluttonous depravity. As the lord lost his dignity, so too did these knights lose their master.
 Equipment & Magic, Armor, Chest Armor          ;Godrick Knight Armor                      ;Armor worn by knights loyal to Godrick The Grafted. Its left breast is emblazoned with a two-headed war axe, an emblem of the golden lineage.  The knights surely boasted of their strength in days long gone.
 Equipment & Magic, Armor, Chest Armor          ;Godskin Apostle Robe                      ;Robe made by sewing together patches of smooth skin. Worn by the Godskin Apostles. The apostles, once said to serve Destined Death, are wielders of the god-slaying black flame.  But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.
-Equipment & Magic, Armor, Chest Armor          ;Tree-and-Beast Surcoat                    ;
+Equipment & Magic, Armor, Chest Armor          ;Tree-and-Beast Surcoat                    ;Armor worn by soldiers loyal to Godrick the Grafted. The surcoat depicts the distant Erdtree and the beast regent, an emblem of the golden lineage. Both are symbols of glory now past.
 Equipment & Magic, Armor, Chest Armor          ;Haligtree Crest Surcoat                   ;Armor worn by soldiers sworn to the Haligtree.
 Equipment & Magic, Armor, Chest Armor          ;Highwayman Cloth Armor                    ;Hideously stained and ragged cloth armor.
 Equipment & Magic, Armor, Chest Armor          ;Hoslow's Armor                            ;Garish silver armor decorated with red embellishments. Passed down through the Hoslow family.
@@ -615,7 +616,7 @@ Equipment & Magic, Armor, Chest Armor          ;Maliketh's Armor (Altered)      
 Equipment & Magic, Armor, Chest Armor          ;Mausoleum Knight Armor                    ;Armor worn by headless knights who endlessly guard the Wandering Mausoleum.
 Equipment & Magic, Armor, Chest Armor          ;Mausoleum Knight Armor (Altered)          ;Armor worn by headless knights who endlessly guard the Wandering Mausoleum.
 Equipment & Magic, Armor, Chest Armor          ;Mausoleum Surcoat                         ;Armor worn by headless soldiers who endlessly guard the Wandering Mausoleum. The surcoat depicts the mausoleum bell, which rings in constant mourning for the soulless demigods.
-Equipment & Magic, Armor, Chest Armor          ;Night Maiden Armor                        ;
+Equipment & Magic, Armor, Chest Armor          ;Night Maiden Armor                        ;Armor worn by the nightmaidens of the Eternal City. Indicates the highest clerical rank, and includes a silk cape. Long ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.
 Equipment & Magic, Armor, Chest Armor          ;Night's Cavalry Armor                     ;Pitch-black armor thinly painted with dried blood. The Night's Cavalry, who now wander the dim roads at night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.
 Equipment & Magic, Armor, Chest Armor          ;Night's Cavalry Armor (Altered)           ;Pitch-black armor thinly painted with dried blood.
 Equipment & Magic, Armor, Chest Armor          ;Nomadic Merchant's Finery                 ;Finery of the nomadic merchants.  Decorated with tiny gems in a wide spectrum of colors. These merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground. Then, they chanted a curse of despair, and summoned the flame of frenzy.
@@ -711,7 +712,7 @@ Equipment & Magic, Armor, Gauntlets            ;Queen's Bracelets               
 Equipment & Magic, Armor, Gauntlets            ;Radahn's Gauntlets                        ;Gauntlets depicting the golden lion. Worn by General Radahn.  The golden lion is said to symbolize Godfrey, the first Elden Lord, and his beast regent, Serosh. From his youngest years, Radahn was naturally captivated by the Lord of the Battlefield.
 Equipment & Magic, Armor, Gauntlets            ;Raging Wolf Gauntlets                     ;Gauntlets worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.
 Equipment & Magic, Armor, Gauntlets            ;Raya Lucarian Gauntlets                   ;Gauntlets worn by Raya Lucaria Academy soldiers.
-Equipment & Magic, Armor, Gauntlets            ;Scaled Gauntlets                          ;
+Equipment & Magic, Armor, Gauntlets            ;Scaled Gauntlets                          ;Gauntlets worn by Old Knight Istvan. The corroded metal is reinforced with rock-hard scales, making it high effective against non-physical attacks. Istvan is one of a few wizened Tarnished who survived to this day. 
 Equipment & Magic, Armor, Gauntlets            ;Sorcerer Manchettes                       ;Manchettes worn by Raya Lucaria's magic scholars.
 Equipment & Magic, Armor, Gauntlets            ;Traveling Maiden Gloves                   ;Gloves worn by traveling maidens. Maidens traversed the Lands Between for different reasons. Some to seek audience with the Fingers. Others, to find the Tarnished who they were destined to guide.
 Equipment & Magic, Armor, Gauntlets            ;Twinned Gauntlets                         ;"Gauntlets depicting entwined twins of gold and silver.  The two known as D are inseparable twins. They are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another. Perhaps this armor longs to find its way to the other D.  "
@@ -719,7 +720,7 @@ Equipment & Magic, Armor, Gauntlets            ;Warrior Gauntlets               
 Equipment & Magic, Armor, Gauntlets            ;Vagabond Knight Gauntlets                 ;Gauntlets of a knight banished form their motherland.
 Equipment & Magic, Armor, Gauntlets            ;Veteran's Gauntlets                       ;Old gauntlets that has seen many battles. Worn by Niall, the veteran general of Sol. Niall was a lone survivor who commanded spirits to defend his long-passed master. This aging general could not die, nor did he have anywhere to fade away.
 Equipment & Magic, Armor, Gauntlets            ;Vulgar Militia Gauntlets                  ;Gauntlets worn by lean, mean, and filthy militiamen. Freshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. This is where the vulgar militia serve, as untiring, unsung watchkeepers.
-Equipment & Magic, Armor, Gauntlets            ;White Reed Gauntlets                      ;
+Equipment & Magic, Armor, Gauntlets            ;White Reed Gauntlets                      ;"Gauntlets of the White Reeds, fashioned from banded iron plates. Worn by the Inabam head disciples of the great swordsman Okina. The Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat. To be a White Reed is to seek death; fitting for the Inaba, who desired nothingmore than to die by the sword."
 Equipment & Magic, Armor, Gauntlets            ;Zamor Bracelets                           ;Bracelets worn by knights of Zamor, hailed as heroes in the War against the Giants.
 Equipment & Magic, Armor, Gauntlets            ;Banished Knight Gauntlets                 ;Thick, full set of armor covering the entire body.
 Equipment & Magic, Armor, Gauntlets            ;Battlemage Manchettes                     ;Manchettes worn by scholars of the Raya Lucaria Academy, tattered from being worn on the battlefield.
@@ -732,13 +733,13 @@ Equipment & Magic, Armor, Gauntlets            ;Drake Knight Gauntlets          
 Equipment & Magic, Armor, Gauntlets            ;Eccentric's Manchettes                    ;The knight Jerren's manchettes.  Jerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became the guest commander for General Radahn. And for the first time, the restless tumbleweed would be bound by honorable oath.
 Equipment & Magic, Armor, Gauntlets            ;Fingerprint Gauntlets                     ;Iron gauntlets singed and blistered by fingers.
 Equipment & Magic, Armor, Gauntlets            ;Fire Prelate Gauntlets                    ;"Black iron gauntlets with the appearance of flames. The weighty frames of the Prelates symbolized the onus of their grave vows as guardians of the flame. ""Etch this sight upon thine breast. Of my thunderous gravity."" "
-Equipment & Magic, Armor, Gauntlets            ;Godrick Soldier Gauntlets                 ;
+Equipment & Magic, Armor, Gauntlets            ;Godrick Soldier Gauntlets                 ;Gauntlets worn by soldiers loyal to Godrick the Grafted. Rust-worn and stained through unending conflict.
 Equipment & Magic, Armor, Gauntlets            ;Godskin Noble Bracelets                   ;Black bracelets of the Godskin Nobles.
 Equipment & Magic, Armor, Gauntlets            ;Gold Bracelets                            ;Bracelets made in the image of Erdtree branches. Those disciples have long since left him.
 Equipment & Magic, Armor, Gauntlets            ;Golden Prosthetic                         ;Golden prosthetic forged using ancient techniques
 Equipment & Magic, Armor, Gauntlets            ;Guardian Bracers                          ;Engraved golden bracers. In accordance with an ancient pact with the Erdtree, it is said that their deaths led not to destruction, but instead to renewed, eternal life as guardians.
 Equipment & Magic, Armor, Gauntlets            ;Haligtree Knight Gauntlets                ;Gauntlets worn by knights sworn to the Haligtree.
-Equipment & Magic, Armor, Gauntlets            ;Leather Gloves                            ;
+Equipment & Magic, Armor, Gauntlets            ;Leather Gloves                            ;Lightweight and battle-proven leather gloves worn by a savvy soldier. Many admire the wearer of this armor for his chivalrous and forthright spirit.
 Equipment & Magic, Armor, Gauntlets            ;Lusat's Manchettes                        ;Manchettes corroded by blue glintstones. Worn by Lusat, primeval current sorcerer. Lusat had reached a near-inorganic state.
 Equipment & Magic, Armor, Gauntlets            ;Malenia's Gauntlet                        ;Gauntlet made of unalloyed gold.
 Equipment & Magic, Armor, Gauntlets            ;Mausoleum Gauntlets                       ;Gauntlets worn by headless soldiers who endlessly guard the Wandering Mausoleum.
@@ -857,7 +858,7 @@ Equipment & Magic, Armor, Leg Armor            ;Battlemage Legwraps             
 Equipment & Magic, Armor, Leg Armor            ;Traveler's Boots                          ;Light yet sturdy leather boots. Worn by young women who set off into the world to confront their fate.
 Equipment & Magic, Armor, Leg Armor            ;Gold Waistwrap                            ;Waistwrap made in the image of Erdtree branches. Those disciples have long since left him.
 Equipment & Magic, Armor, Leg Armor            ;Leather Boots                             ;Lightweight and battle-proven leather boots worn by a savvy soldier. Many admire the wearer of this armor for his chivalrous and forthright spirit.
-Equipment & Magic, Armor, Leg Armor            ;Godrick Soldier Greaves                   ;
+Equipment & Magic, Armor, Leg Armor            ;Godrick Soldier Greaves                   ;Greaves worn by soldiers loyal to Godrick the Grafted. Rust-worn and stained through unending conflict.
 Equipment & Magic, Armor, Leg Armor            ;Leyndell Soldier Greaves                  ;Greaves worn by soldiers sworn to defend the royal capital of Leyndell.
 Equipment & Magic, Armor, Leg Armor            ;Mausoleum Greaves                         ;Greaves worn by headless soldiers who endlessly guard the Wandering Museum.
 Equipment & Magic, Armor, Leg Armor            ;Cuckoo Knight Greaves                     ;Greaves worn by Raya Lucaria Academy knights.
@@ -998,7 +999,7 @@ Equipment & Magic, Items, Consumables          ;Fetid Pot                       
 Equipment & Magic, Items, Consumables          ;Swarm Pot                                 ;Craftable item prepared using a cracked pot.
 Equipment & Magic, Items, Consumables          ;Sleep Pot                                 ;Craftable item prepared using a cracked pot.  Enchanted by the incantations of St. Trina.  Consumes FP. Throw enemies to cause buildup of sleep.  Like a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams.
 Equipment & Magic, Items, Consumables          ;Rancor Pot                                ;Craftable item prepared using a cracked pot.
-Equipment & Magic, Items, Consumables          ;Roped Magic Pot                           ;
+Equipment & Magic, Items, Consumables          ;Roped Magic Pot                           ;Craftable item prepared using a cracked pot. A cocktail of magically resonant materials is sealed inside. Called a 'faux sorcery' in Raya Lucaria. Consumes FP. Throw at rearward enemies to inflict magic damage.
 Equipment & Magic, Items, Consumables          ;Roped Oil Pot                             ;Craftable item prepared using a cracked pot.
 Equipment & Magic, Items, Consumables          ;Roped Fire Pot                            ;Craftable item prepared using a cracked pot.
 Equipment & Magic, Items, Consumables          ;Roped Volcano Pot                         ;Craftable item prepared using a cracked pot.
@@ -1267,8 +1268,8 @@ Equipment & Magic, Items, Info Items           ;About Teardrop Scarabs          
 Equipment & Magic, Items, Info Items           ;About Vanquishing Enemy Groups            ;
 Equipment & Magic, Items, Info Items           ;About Wielding Armaments                  ;
 Equipment & Magic, Items, Info Items           ;About the Map                             ;
-Equipment & Magic, Items, Info Items           ;Carrier Pigeon Letter (1)                 ;
-Equipment & Magic, Items, Info Items           ;Carrier Pigeon Letter (2)                 ;
+Equipment & Magic, Items, Info Items           ;Carrier Pigeon Letter (1)                 ;Letter addressed to someone: Confirmed traces of silvery slime in the ruins in front of Stormgate.
+Equipment & Magic, Items, Info Items           ;Carrier Pigeon Letter (2)                 ;Letter addressed to someone: Traces of silvery slime found on Godwyn's Highroad. Just after until the procession with the big coffin passed by.
 Equipment & Magic, Items, Info Items           ;Champion's Song Painting                  ;
 Equipment & Magic, Items, Info Items           ;Flightless Bird Painting                  ;
 Equipment & Magic, Items, Info Items           ;Homing Instinct Painting                  ;
@@ -1276,17 +1277,17 @@ Equipment & Magic, Items, Info Items           ;Letter from Volcano Manor       
 Equipment & Magic, Items, Info Items           ;Letter to Bernahl                         ;"A written request from Volcano Manor addressed to Bernahl disclosing the names of two Tarnished to be hunted. ""Vargram the Raging Wolf"" ""Errant Sorcerer Wilhelm"" Both men can be found in the Royal Capital of Leyndell. Find the red mark on your map for the exact location. "
 Equipment & Magic, Items, Info Items           ;Letter to Patches                         ;"A written request from Volcano Manor addressed to Patches disclosing the name of a Tarnished to be hunted. ""Great Horned Tragoth"" He can be found at the Ruin-Strewn Precipice. Find the red mark on your map for the exact location. "
 Equipment & Magic, Items, Key Items            ;Meeting Place Map                         ;Simple map found on a corpse.
-Equipment & Magic, Items, Info Items           ;Note: Demi-human Mobs                     ;
-Equipment & Magic, Items, Info Items           ;Note: Flame Chariots                      ;
-Equipment & Magic, Items, Info Items           ;Note: Flask of Wondrous Physick           ;
-Equipment & Magic, Items, Info Items           ;Note: Frenzied Flame Village              ;
+Equipment & Magic, Items, Info Items           ;Note: Demi-human Mobs                     ;Slay the demi-human mob's leader first, and the rest will lose hope and panic
+Equipment & Magic, Items, Info Items           ;Note: Flame Chariots                      ;Beware the Fire Monk's chariots bearing the faces of giants. A well-aimed blow to the chimney on top may prove effective, but opportunities for a plunging attack will be rare indeed.
+Equipment & Magic, Items, Info Items           ;Note: Flask of Wondrous Physick           ;You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between. At sites of grace, you can mix two Crystal Tears in the Flask of Wondrous Physickk. This will allow you to create elixirs with various custom effects
+Equipment & Magic, Items, Info Items           ;Note: Frenzied Flame Village              ;South of the Grand Lift of Dectus lies the Frenzied Flame Village, inhabited by the sick. Stay well away
 Equipment & Magic, Items, Info Items           ;Note: Gateway                             ;
-Equipment & Magic, Items, Info Items           ;Note: Below the Capital                   ;
+Equipment & Magic, Items, Info Items           ;Note: Below the Capital                   ;Below the royal capital of Leyndell is a vast network of sewers. The well in the city below reaches deep into its tunnels.
 Equipment & Magic, Items, Info Items           ;Note: Gravity's Advantage                 ;
 Equipment & Magic, Items, Info Items           ;Note: Great Coffins                       ;
 Equipment & Magic, Items, Info Items           ;Note: Hidden Cave                         ;
 Equipment & Magic, Items, Info Items           ;Note: Imp Shades                          ;"Note sold by a nomadic merchant imparting knowledge in brief. ""Nothing can touch the shades of imps in the heroes' graveyard.  Only Rosus's light can give them form."" "
-Equipment & Magic, Items, Info Items           ;Note: Land Squirts                        ;" Note sold by a nomadic merchant imparting knowledge in brief. ""Land squirts are soft where they touch the ground, and poison will cause them to rupture."" "
+Equipment & Magic, Items, Info Items           ;Note: Land Squirts                        ;"Note sold by a nomadic merchant imparting knowledge in brief. ""Land squirts are soft where they touch the ground, and poison will cause them to rupture."" "
 Equipment & Magic, Items, Info Items           ;Note: Miquella's Needle                   ;
 Equipment & Magic, Items, Info Items           ;Note: Revenants                           ;
 Equipment & Magic, Items, Info Items           ;Note: Stonedigger Trolls                  ;A note sold by a nomadic merchant. Further details are available only to paying customers.
@@ -1299,7 +1300,7 @@ Equipment & Magic, Items, Info Items           ;Prophecy Painting               
 Equipment & Magic, Items, Info Items           ;Red Letter                                ;"A written request from Volcano Manor disclosing the name of a Tarnished to be hunted. As the final request, the letter is vivid red. ""Juno Hoslow, Knight of Blood"" He can be found in the Mountaintops of the Giants. Find the red mark on your map for the exact location. "
 Equipment & Magic, Items, Info Items           ;Redmane Painting                          ;
 Equipment & Magic, Items, Info Items           ;Resurrection Painting                     ;
-Equipment & Magic, Items, Info Items           ;Rogier's Letter                           ;<br/> I heard he lies in a deep sleep in the aqueduct beside The Eternal City of Nokron. And it's said he stood before the Prince of Death not far beyond that spot.
+Equipment & Magic, Items, Info Items           ;Rogier's Letter                           ;I forgot to tell you, but it seems D has a younger brother.I heard he lies in a deep sleep in the aqueduct beside The Eternal City of Nokron. And it's said he stood before the Prince of Death not far beyond that spot.
 Equipment & Magic, Items, Info Items           ;Sellia's Secret                           ;
 Equipment & Magic, Items, Info Items           ;Sorcerer Painting                         ;
 Equipment & Magic, Items, Info Items           ;Weathered Map                             ;A simple, badly weathered map. Depicts streaks of amber light.
@@ -1451,183 +1452,7 @@ Equipment & Magic, Items, Whetblades           ;Glintstone Whetblade            
 Equipment & Magic, Items, Whetblades           ;Red-Hot Whetblade                         ;Red-hot whetblade with a cipher engraved. Can be used as a whetstone knife. When applying an affinity using physical or flame-type ashes of war, an additional affinity of fire or flame art can be chosen.
 Equipment & Magic, Items, Whetblades           ;Sanctified Whetblade                      ;Sanctified whetblade with a cipher engraved. Can be used as a whetstone knife. When applying an affinity using physical or golden-type ashes of war, an additional affinity of sacred or lightning can be chosen.
 Equipment & Magic, Items, Whetblades           ;Black Whetblade                           ;Black whetblade with a cipher engraved. Can be used as a whetstone knife. When applying an affinity using physical or occult-type ashes of war, an additional affinity of poison, blood, or occult can be chosen.
-Equipment & Magic, Skills                      ;Lion's Claw                               ;
-Equipment & Magic, Skills                      ;Impaling Thrust                           ;
-Equipment & Magic, Skills                      ;Piercing Fang                             ;
-Equipment & Magic, Skills                      ;Spinning Slash                            ;
-Equipment & Magic, Skills                      ;Charge Forth                              ;
-Equipment & Magic, Skills                      ;Stamp (Upward Cut)                        ;
-Equipment & Magic, Skills                      ;Stamp (Sweep)                             ;
-Equipment & Magic, Skills                      ;Blood Tax                                 ;
-Equipment & Magic, Skills                      ;Repeating Thrust                          ;
-Equipment & Magic, Skills                      ;Wild Strikes                              ;
-Equipment & Magic, Skills                      ;Spinning Strikes                          ;
-Equipment & Magic, Skills                      ;Double Slash                              ;
-Equipment & Magic, Skills                      ;Prelate's Charge                          ;
-Equipment & Magic, Skills                      ;Unsheathe                                 ;
-Equipment & Magic, Skills                      ;Square Off                                ;
-Equipment & Magic, Skills                      ;Giant Hunt                                ;
-Equipment & Magic, Skills                      ;Torch Attack                              ;
-Equipment & Magic, Skills                      ;Loretta's Slash                           ;
-Equipment & Magic, Skills                      ;Poison Moth Flight                        ;
-Equipment & Magic, Skills                      ;Spinning Weapon                           ;
-Equipment & Magic, Skills                      ;Storm Assault                             ;
-Equipment & Magic, Skills                      ;Stormcaller                               ;
-Equipment & Magic, Skills                      ;Sword Dance                               ;
-Equipment & Magic, Skills                      ;Spinning Chain                            ;
-Equipment & Magic, Skills                      ;Glintblade Phalanx (Skill)                ;
-Equipment & Magic, Skills                      ;Sacred Blade                              ;
-Equipment & Magic, Skills                      ;Ice Spear                                 ;
-Equipment & Magic, Skills                      ;Glintstone Pebble Skill                   ;
-Equipment & Magic, Skills                      ;Bloody Slash                              ;
-Equipment & Magic, Skills                      ;Lifesteal Fist                            ;
-Equipment & Magic, Skills                      ;Eruption                                  ;
-Equipment & Magic, Skills                      ;Prayerful Strike                          ;
-Equipment & Magic, Skills                      ;Gravitas                                  ;
-Equipment & Magic, Skills                      ;Storm Blade                               ;
-Equipment & Magic, Skills                      ;Earthshaker                               ;
-Equipment & Magic, Skills                      ;Golden Land                               ;
-Equipment & Magic, Skills                      ;Flaming Strike                            ;
-Equipment & Magic, Skills                      ;Thunderbolt                               ;
-Equipment & Magic, Skills                      ;Lightning Slash                           ;
-Equipment & Magic, Skills                      ;Carian Grandeur                           ;
-Equipment & Magic, Skills                      ;Carian Greatsword Skill                   ;
-Equipment & Magic, Skills                      ;Vacuum Slice                              ;
-Equipment & Magic, Skills                      ;Black Flame Tornado                       ;
-Equipment & Magic, Skills                      ;Sacred Ring of Light                      ;
-Equipment & Magic, Skills                      ;Firebreather                              ;
-Equipment & Magic, Skills                      ;Blood Blade                               ;
-Equipment & Magic, Skills                      ;Phantom Slash                             ;
-Equipment & Magic, Skills                      ;Spectral Lance                            ;
-Equipment & Magic, Skills                      ;Chilling Mist                             ;
-Equipment & Magic, Skills                      ;Poisonous Mist                            ;
-Equipment & Magic, Skills                      ;Shield Bash                               ;
-Equipment & Magic, Skills                      ;Barricade Shield                          ;
-Equipment & Magic, Skills                      ;Parry Skill                               ;
-Equipment & Magic, Skills                      ;Buckler Parry                             ;
 Equipment & Magic, Magic, Sorceries            ;Carian Retaliation                        ;One of the sorceries of the Carian royal family. Swing your staff to dispel incoming sorceries and incantations,  using their power to retaliate with glintblades. This was the Carian royal family's secret means to prepare against  the disloyalty of the academy. The moon and stars would one day  go their separate ways.
-Equipment & Magic, Skills                      ;Storm Wall                                ;
-Equipment & Magic, Skills                      ;Golden Parry                              ;
-Equipment & Magic, Skills                      ;Shield Crash                              ;
-Equipment & Magic, Skills                      ;Thops's Barrier                           ;
-Equipment & Magic, Skills                      ;Through and Through                       ;
-Equipment & Magic, Skills                      ;Barrage                                   ;
-Equipment & Magic, Skills                      ;Mighty Shot                               ;
-Equipment & Magic, Skills                      ;Enchanted Shot                            ;
-Equipment & Magic, Skills                      ;Sky Shot                                  ;
-Equipment & Magic, Skills                      ;Rain of Arrows                            ;
-Equipment & Magic, Skills                      ;Hoarfrost Stomp                           ;
-Equipment & Magic, Skills                      ;Storm Stomp                               ;
-Equipment & Magic, Skills                      ;Kick                                      ;
-Equipment & Magic, Skills                      ;Lightning Ram                             ;
-Equipment & Magic, Skills                      ;Flame of the Redmanes                     ;
-Equipment & Magic, Skills                      ;Ground Slam                               ;
-Equipment & Magic, Skills                      ;Golden Slam                               ;
-Equipment & Magic, Skills                      ;Waves of Darkness                         ;
-Equipment & Magic, Skills                      ;Hoarah Loux's Earthshaker                 ;
-Equipment & Magic, Skills                      ;Determination                             ;
-Equipment & Magic, Skills                      ;Royal Knight's Resolve                    ;
-Equipment & Magic, Skills                      ;Assassin's Gambit                         ;
-Equipment & Magic, Skills                      ;Golden Vow                                ;
-Equipment & Magic, Skills                      ;Sacred Order                              ;
-Equipment & Magic, Skills                      ;Shared Order                              ;
-Equipment & Magic, Skills                      ;Seppuku                                   ;
-Equipment & Magic, Skills                      ;Cragblade                                 ;
-Equipment & Magic, Skills                      ;Barbaric Roar                             ;
-Equipment & Magic, Skills                      ;War Cry                                   ;
-Equipment & Magic, Skills                      ;Beast's roar                              ;
-Equipment & Magic, Skills                      ;Troll's Roar                              ;
-Equipment & Magic, Skills                      ;Braggart's Roar                           ;
-Equipment & Magic, Skills                      ;Endure                                    ;
-Equipment & Magic, Skills                      ;Vow of the Indomitable                    ;
-Equipment & Magic, Skills                      ;Holy Ground                               ;
-Equipment & Magic, Skills                      ;Quickstep                                 ;
-Equipment & Magic, Skills                      ;Bloodhound's Step                         ;
-Equipment & Magic, Skills                      ;Raptor of the Mists                       ;
-Equipment & Magic, Skills                      ;White Shadow's Lure                       ;
-Equipment & Magic, Skills                      ;Surge of Faith                            ;
-Equipment & Magic, Skills                      ;Flame Spit                                ;
-Equipment & Magic, Skills                      ;Tongues of Fire                           ;
-Equipment & Magic, Skills                      ;Oracular Bubble                           ;
-Equipment & Magic, Skills                      ;Bubble Shower                             ;
-Equipment & Magic, Skills                      ;Great Oracular Bubble Skill               ;
-Equipment & Magic, Skills                      ;Sea of Magma                              ;
-Equipment & Magic, Skills                      ;Viper Bite                                ;
-Equipment & Magic, Skills                      ;Moonlight Greatsword                      ;
-Equipment & Magic, Skills                      ;Siluria's Woe                             ;
-Equipment & Magic, Skills                      ;Rallying Standard                         ;
-Equipment & Magic, Skills                      ;Bear Witness!                             ;
-Equipment & Magic, Skills                      ;Eochaid's Dancing Blade                   ;
-Equipment & Magic, Skills                      ;Soul Stifler                              ;
-Equipment & Magic, Skills                      ;Taker's Flames                            ;
-Equipment & Magic, Skills                      ;Shriek of Milos                           ;
-Equipment & Magic, Skills                      ;Reduvia Blood Blade                       ;
-Equipment & Magic, Skills                      ;Glintstone Dart                           ;
-Equipment & Magic, Skills                      ;Night-and-Flame Stance                    ;
-Equipment & Magic, Skills                      ;Wave of Gold                              ;
-Equipment & Magic, Skills                      ;Ruinous Ghostflame                        ;
-Equipment & Magic, Skills                      ;Establish Order                           ;
-Equipment & Magic, Skills                      ;Mists of Slumber                          ;
-Equipment & Magic, Skills                      ;Spearcall Ritual                          ;
-Equipment & Magic, Skills                      ;Wolf's Assault                            ;
-Equipment & Magic, Skills                      ;Thundercloud Form                         ;
-Equipment & Magic, Skills                      ;Cursed-Blood Slice                        ;
-Equipment & Magic, Skills                      ;Waterfowl Dance                           ;
-Equipment & Magic, Skills                      ;Gold Breaker                              ;
-Equipment & Magic, Skills                      ;I Command Thee, Kneel!                    ;
-Equipment & Magic, Skills                      ;Regal Roar                                ;
-Equipment & Magic, Skills                      ;Starcaller Cry                            ;
-Equipment & Magic, Skills                      ;Wave of Destruction                       ;
-Equipment & Magic, Skills                      ;Bloodboon Ritual                          ;
-Equipment & Magic, Skills                      ;Flowing Form                              ;
-Equipment & Magic, Skills                      ;Flowing Form (Nox Flowing Hammer)         ;
-Equipment & Magic, Skills                      ;Blade of Death                            ;
-Equipment & Magic, Skills                      ;Blade of Gold                             ;
-Equipment & Magic, Skills                      ;Destined Death                            ;
-Equipment & Magic, Skills                      ;Spinning Wheel                            ;
-Equipment & Magic, Skills                      ;Alabaster Lord's Pull                     ;
-Equipment & Magic, Skills                      ;Onyx Lord's Repulsion                     ;
-Equipment & Magic, Skills                      ;Oath of Vengeance                         ;
-Equipment & Magic, Skills                      ;Ice Lightning Sword                       ;
-Equipment & Magic, Skills                      ;Regal Beastclaw                           ;
-Equipment & Magic, Skills                      ;Flame Dance                               ;
-Equipment & Magic, Skills                      ;Claw Flick                                ;
-Equipment & Magic, Skills                      ;Nebula                                    ;
-Equipment & Magic, Skills                      ;Ghostflame Ignition                       ;
-Equipment & Magic, Skills                      ;Ancient Lightning Spear                   ;
-Equipment & Magic, Skills                      ;Frenzyflame Thrust                        ;
-Equipment & Magic, Skills                      ;Miquella's Ring of Light                  ;
-Equipment & Magic, Skills                      ;Golden Tempering                          ;
-Equipment & Magic, Skills                      ;Last Rites                                ;
-Equipment & Magic, Skills                      ;Unblockable Blade                         ;
-Equipment & Magic, Skills                      ;Corpse Wax Cutter                         ;
-Equipment & Magic, Skills                      ;Zamor Ice Storm                           ;
-Equipment & Magic, Skills                      ;Radahn's Rain                             ;
-Equipment & Magic, Skills                      ;The Queen's Black Flame                   ;
-Equipment & Magic, Skills                      ;Dynast's Finesse                          ;
-Equipment & Magic, Skills                      ;Magma Shower                              ;
-Equipment & Magic, Skills                      ;Death Flare                               ;
-Equipment & Magic, Skills                      ;Bloodhound's Finesse                      ;
-Equipment & Magic, Skills                      ;Magma Guillotine                          ;
-Equipment & Magic, Skills                      ;Corpse Piler                              ;
-Equipment & Magic, Skills                      ;Transient Moonlight                       ;
-Equipment & Magic, Skills                      ;Bloodblade Dance                          ;
-Equipment & Magic, Skills                      ;Knowledge Above All                       ;
-Equipment & Magic, Skills                      ;Devourer of Worlds                        ;
-Equipment & Magic, Skills                      ;Familial Rancor                           ;
-Equipment & Magic, Skills                      ;Rosus's Summons                           ;
-Equipment & Magic, Skills                      ;Thunderstorm                              ;
-Equipment & Magic, Skills                      ;Sacred Phalanx                            ;
-Equipment & Magic, Skills                      ;Great-Serpent Hunt                        ;
-Equipment & Magic, Skills                      ;Angel's Wings                             ;
-Equipment & Magic, Skills                      ;Storm Kick                                ;
-Equipment & Magic, Skills                      ;Sorcery of the Crozier                    ;
-Equipment & Magic, Skills                      ;Erdtree Slam                              ;
-Equipment & Magic, Skills                      ;Gravity Bolt                              ;
-Equipment & Magic, Skills                      ;Fires of Slumber                          ;
-Equipment & Magic, Skills                      ;Golden Retaliation                        ;
-Equipment & Magic, Skills                      ;Contagious Fury                           ;
-Equipment & Magic, Skills                      ;Ordovis's Vortex                          ;
 Equipment & Magic, Shields, Small Shields      ;Rickety Shield                            ;A creaky old wooden shield, circular in shape. Roughly reinforced with vines or some such. There are countless other shields available of better make. This piece of scrap isn't worth the effort of equipping.
 Equipment & Magic, Shields, Small Shields      ;Riveted Wooden Shield                     ;Small wooden roundshield that has been reinforced with metal.  The design riveted to the center represents both sword and tree.
 Equipment & Magic, Shields, Small Shields      ;Blue-White Wooden Shield                  ;Small wooden roundshield that has been reinforced with metal. The design is said to represent the stars of the night sky,
@@ -1676,7 +1501,7 @@ Equipment & Magic, Shields, Greatshields       ;Wooden Greatshield              
 Equipment & Magic, Shields, Greatshields       ;Lordsworn's Shield                        ;Wooden tower shield. Lightweight for a greatshield and easy to handle. Greatshields boast high damage negation and guard capacity, making enemy attacks easy to repel.
 Equipment & Magic, Shields, Greatshields       ;Briar Greatshield                         ;Greatshield from a foreign land, used by Elemer of the Briar. Attacks with this armament utilize the iron thorns that have been wound around its frame.
 Equipment & Magic, Shields, Greatshields       ;Spiked Palisade Shield                    ;
-Equipment & Magic, Shields, Greatshields       ;Icon Shield                               ;"Greatshield painted with a divine scene; the recipients of a blessed tear from the Erdtree. An item that looks back fondly on the age of plenty. The divine scene acts in and of itself as a sacred invocation; gradually restoring the carrier's HP. "
+Equipment & Magic, Shields, Greatshields       ;Icon Shield                               ;"Greatshield painted with a divine scene, the recipients of a blessed tear from the Erdtree. An item that looks back fondly on the age of plenty. The divine scene acts in and of itself as a sacred invocation, gradually restoring the carrier's HP. "
 Equipment & Magic, Shields, Greatshields       ;Golden Beast Crest Shield                 ;Shield of dull gold with a beast engraved as its crest. Lighter than The beast depicted is Serosh, aged counselor who guides the
 Equipment & Magic, Shields, Greatshields       ;Manor Towershield                         ;An iron greatshield large enough to cover the entire body.  Depicts the Roundtable Hold, gathering place of champions.
 Equipment & Magic, Shields, Greatshields       ;Crossed-Tree Towershield                  ;An iron greatshield large enough to cover the entire body.
