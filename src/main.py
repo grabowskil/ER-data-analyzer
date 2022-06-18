@@ -65,7 +65,7 @@ def main():
         "https://eldenring.wiki.fextralife.com/Great+Runes",
     ]
 
-    linkListTables = findAllLinks(relItemsTemp)
+    linkListTables = findAllLinks(relItemsTable)
     linkListGrids = findAllLinks(relItemsGrid)
 
     linkList = linkListTables + linkListGrids
