@@ -9,29 +9,53 @@ def tableFinder(target="https://eldenring.wiki.fextralife.com/Daggers"):
     
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    table = soup.find('table', attrs={'class':'wiki_table'})
-    tableBody = table.find('tbody')
-
-    rows = tableBody.find_all('tr')
-
+    tables = soup.select('table.wiki_table.sortable.searchable')
+    
     links = []
 
-    for row in rows:
-        col = row.find('td')
-        if col is not None:
-            try:
-                link = col.find('a', attrs={'class':'wiki_link'})['href']
-                links.append(link)
-            except:
-                print("Skipped: An exception occured while trying to add " + str(col) + " it was skipped.")
+    for table in tables:
+        tableBody = table.find('tbody')
+
+        rows = tableBody.find_all('tr')
+
+        for row in rows:
+            col = row.find('td')
+            if col is not None:
+                try:
+                    link = col.find('a', attrs={'class':'wiki_link'})['href']
+                    links.append(link)
+                except:
+                    print("Skipped: An exception occured while trying to add " + str(col) + " it was skipped.")
 
     return links
 
-def findAllLinks(relItems=["https://eldenring.wiki.fextralife.com/Daggers"], target="../docs/linklist.csv"):
+def gridFinder(target="https://eldenring.wiki.fextralife.com/Spirit+Ashes"):
+    response = requests.get(
+        url = target
+    )
+
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    grid = soup.find_all('a', attrs={'class:wiki_link'})
+
+    links = []
+
+    for a in grid:
+        try:
+            link = a['href']
+            links.append(link)
+        except:
+            print("Skipped: An exception occured while trying to add " + str(a) + " it was skipped.")
+
+
+def findAllLinks(relItems=["https://eldenring.wiki.fextralife.com/Daggers"], target="../docs/linklist.csv", mode='table'):
     linkListComplete = []
 
     for item in relItems:
-        linkList = tableFinder(item)
+        if mode == 'table':
+            linkList = tableFinder(item)
+        elif mode == 'grid':
+            linkList = gridFinder(item)
 
         for link in linkList:
             

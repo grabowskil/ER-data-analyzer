@@ -3,16 +3,7 @@ from finder import findAllLinks
 from scraper import scraper
 
 def main():
-    #TODO:
-    #   Ammunition: https://eldenring.wiki.fextralife.com/Arrows+and+Bolts
-    #   Great Runes: https://eldenring.wiki.fextralife.com/Great+Runes
-    #   Upgrade Mats: https://eldenring.wiki.fextralife.com/Upgrade+Materials
-    #   Talismans: https://eldenring.wiki.fextralife.com/Talismans
-    #   Spirit Ashes: https://eldenring.wiki.fextralife.com/Spirit+Ashes
-    #   Sorceries & Incantations: https://eldenring.wiki.fextralife.com/Sorceries, https://eldenring.wiki.fextralife.com/Incantations
-
-
-    relItems = [
+    relItemsTable = [
         "https://eldenring.wiki.fextralife.com/Daggers",
         "https://eldenring.wiki.fextralife.com/Straight+Swords",
         "https://eldenring.wiki.fextralife.com/Greatswords",
@@ -61,10 +52,24 @@ def main():
         "https://eldenring.wiki.fextralife.com/Whetblades",
         "https://eldenring.wiki.fextralife.com/Small+Shields",
         "https://eldenring.wiki.fextralife.com/Medium+Shields",
-        "https://eldenring.wiki.fextralife.com/GreatShields"
+        "https://eldenring.wiki.fextralife.com/GreatShields",
+        "https://eldenring.wiki.fextralife.com/Sorceries",
+        "https://eldenring.wiki.fextralife.com/Incantations",
+        "https://eldenring.wiki.fextralife.com/Arrows+and+Bolts",
+        "https://eldenring.wiki.fextralife.com/Upgrade+Materials"
     ]
 
-    linkList = findAllLinks(relItems)
+    relItemsGrid = [
+        "https://eldenring.wiki.fextralife.com/Spirit+Ashes",
+        "https://eldenring.wiki.fextralife.com/Talismans",
+        "https://eldenring.wiki.fextralife.com/Great+Runes",
+    ]
+
+    linkListTables = findAllLinks(relItemsTemp)
+    linkListGrids = findAllLinks(relItemsGrid)
+
+    linkList = linkListTables + linkListGrids
+
     scraper(linkList, "../docs/descriptions.csv")
 
 main()
