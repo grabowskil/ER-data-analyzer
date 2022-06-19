@@ -69,7 +69,7 @@
       },
       {
         "itemNo": "1032",
-        "itemName": "Great",
+        "itemName": "Great-Jar's Arsenal",
         "content": "A charm that resembles a great jar overflowing with weaponry. Vastly boosts maximum equipment load. The great jar grants this talisman to their warriors. Carry as much as you can\u2014grow big and strong. "
       },
       {
@@ -104,7 +104,7 @@
       },
       {
         "itemNo": "1070",
-        "itemName": "Prosthesis",
+        "itemName": "Prosthesis-Wearer Heirloom",
         "content": "A talisman engraved with a scene from a heroic tale. Raises dexterity. Though born into the accursed rot, when the young girl encountered her mentor and his flowing blade, she gained wings of unparalleled strength. "
       },
       {
@@ -189,7 +189,7 @@
       },
       {
         "itemNo": "1210",
-        "itemName": "Bull",
+        "itemName": "Bull-Goat's Talisman",
         "content": "A talisman depicting the horns of a bull-goat. Raises poise. Bull-goats are associated with the stout and mighty Tragoth, said to be unflinching in combat\u2014now a silent comrade to those who fight. "
       },
       {
@@ -239,7 +239,7 @@
       },
       {
         "itemNo": "2040",
-        "itemName": "Red",
+        "itemName": "Red-Feathered Branchsword",
         "content": "A talisman adorned with red feathers, once used in ancient death rituals. Raises attack power when HP is low. The heart sings when one draws close to death, and a glorious end awaits those who cling so tenaciously to life. "
       },
       {
@@ -339,12 +339,12 @@
       },
       {
         "itemNo": "3000",
-        "itemName": "Graven",
+        "itemName": "Graven-School Talisman",
         "content": "A talisman depicting a school of graven mages, the nightmare of the academy. Raises potency of sorceries. The primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry. "
       },
       {
         "itemNo": "3001",
-        "itemName": "Graven",
+        "itemName": "Graven-Mass Talisman",
         "content": "A talisman depicting the first school of graven mages\u2014a nightmare that would continue to haunt the academy. Greatly raises potency of sorceries. The primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry. "
       },
       {
@@ -484,7 +484,7 @@
       },
       {
         "itemNo": "4080",
-        "itemName": "Blue",
+        "itemName": "Blue-Feathered Branchsword",
         "content": "A talisman adorned with blue feathers, once used in ancient death rituals. Raises defense when HP is low. The heart sings when one draws close to death, and thus does one cling so tenaciously to life\u2014to render up a death worth offering. "
       },
       {
@@ -574,12 +574,12 @@
       },
       {
         "itemNo": "6080",
-        "itemName": "Furled Finger's Trick",
+        "itemName": "Furled Finger's Trick-Mirror",
         "content": "A small, clouded mirror that reflects an image of a golden figure. Makes the bearer take on the appearance of a Host of Fingers. One of the ritual implements created by the Tarnished to deceive invaders. "
       },
       {
         "itemNo": "6090",
-        "itemName": "Host's Trick",
+        "itemName": "Host's Trick-Mirror",
         "content": "A small, clouded mirror that reflects a flesh-and-blood figure. Makes the bearer take on the appearance of a summoned cooperator. One of the ritual implements created by the Tarnished to deceive invaders. "
       },
       {
@@ -1169,7 +1169,7 @@
       },
       {
         "itemNo": "1019",
-        "itemName": "Night",
+        "itemName": "Night-and-Flame Stance",
         "content": "Unique Skill: Night-and-Flame Stance Hold the sword level and prepare to cast a sorcery. Follow up with a normal attack to cast the Night Comet sorcery, or a strong attack to sweep forward with a burst of flames. "
       },
       {
@@ -1209,7 +1209,7 @@
       },
       {
         "itemNo": "1027",
-        "itemName": "Cursed",
+        "itemName": "Cursed-Blood Slice",
         "content": "Unique Skill: Cursed-Blood Slice Brace, then charge forward to deliver a downward diagonal slice. The bloody trail of the blade is followed by a burst of flame. Additional input allows for a follow-up attack. "
       },
       {
@@ -1444,7 +1444,7 @@
       },
       {
         "itemNo": "1188",
-        "itemName": "Great",
+        "itemName": "Great-Serpent Hunt",
         "content": "Unique Skill: Great-Serpent Hunt Perform a powerful forward lunge and follow up with an upward thrust via additional input. When fighting a great serpent, a long blade of light will appear, revealing the armament's true power. "
       },
       {
@@ -1513,492 +1513,492 @@
     "items": [
       {
         "itemNo": "10000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Lion's Claw",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Lion's Claw: Skill of the Redmanes, who fought alongside General Radahn. Somersault forwards, striking foes with armament.\" Usable on swords, axes, and hammers (small armaments and thrusting swords excepted). "
       },
       {
         "itemNo": "10100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Impaling Thrust",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Impaling Thrust: Skill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard.\" Usable on armaments capable of thrusting (colossal weapons excepted). "
       },
       {
         "itemNo": "10200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Piercing Fang",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Piercing Fang: Skill used by Yura, the Bloody Finger Hunter. Starting with the blade held horizontally, make a powerful thrust that cannot be blocked.\" Usable on medium and large armaments capable of thrusting. "
       },
       {
         "itemNo": "10300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Spinning Slash",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Spinning Slash: Skill favored by dexterous warriors. Slash foes as your body spins. Additional input allows for a follow-up attack.\" Usable on swords, axes, and polearms (colossal weapons excepted). "
       },
       {
         "itemNo": "10500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Charge Forth",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Charge Forth: Quickly charge forward with the armament at the hip, carrying the momentum into a thrust. Hold to cover a greater distance.\" Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades. "
       },
       {
         "itemNo": "10600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Stamp",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Stamp (Upward Cut): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for an upward strike.\" Usable on swords, axes, and hammers (small and medium swords excepted). "
       },
       {
         "itemNo": "10700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Stamp",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Stamp (Sweep): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for a sweeping strike.\" Usable on swords, axes, and hammers (small and medium swords excepted). "
       },
       {
         "itemNo": "10800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Blood Tax",
         "content": "This Ash of War grants an armament the Blood affinity and the following skill: \"Blood Tax: Blood Oath skill granted by the Lord of Blood. Twist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP.\" Usable on armaments capable of thrusting (colossal weapons excepted). "
       },
       {
         "itemNo": "10900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Repeating Thrust",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Repeating Thrust: Twist to build power, then unleash a flurry of thrusts.\" Usable on armaments capable of thrusting (colossal weapons excepted). "
       },
       {
         "itemNo": "11000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Wild Strikes",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Wild Strikes: Swing armament with wild abandon. Hold to continue swinging. Can be followed up with a normal or strong attack.\" Usable on axes and hammers as well as curved swords and greatswords (colossal weapons excepted). "
       },
       {
         "itemNo": "11100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Spinning Strikes",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Spinning Strikes: Polearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning.\" Usable on polearms (great spears excepted). "
       },
       {
         "itemNo": "11200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Double Slash",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Double Slash: Skill of superior swordsmen. Perform a crossing slash attack from a low stance. Repeated inputs allow for up to two follow-up attacks.\" Usable on swords and polearms capable of slashing (colossal weapons excepted). "
       },
       {
         "itemNo": "11300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Prelate's Charge",
         "content": "This Ash of War grants an armament the Flame Art affinity and the following skill: \"Prelate's Charge: Slam armament into the ground to create a surge of flames, then charge in. Hold to continue the charge.\" Usable on large and colossal axes and hammers. "
       },
       {
         "itemNo": "11400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Unsheathe",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Unsheathe: Skill of swordsmen from the Land of Reeds. Sheathe blade, holding it at the hip in a composed stance. Follow up with a normal or strong attack to perform a swift slash attack.\" Usable on katana. "
       },
       {
         "itemNo": "11500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Square Off",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Square Off: This skill starts with the sword held level. Follow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust.\" Usable on straight swords. "
       },
       {
         "itemNo": "11600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Giant Hunt",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Giant Hunt: Skill developed for confronting gigantic foes. Step forward from a low stance, carrying the momentum into a sudden upward thrust.\" Usable on large and colossal weapons capable of thrusting, spears, and twinblades. "
       },
       {
         "itemNo": "11700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Torch Attack",
         "content": "This Ash of War grants an armament the Skill: Torch Attack. "
       },
       {
         "itemNo": "11800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Loretta's Slash",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Loretta's Slash: Skill of Loretta the Royal Knight. Leap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash.\" Usable on polearms and twinblades. "
       },
       {
         "itemNo": "11900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Poison Moth Flight",
         "content": "This Ash of War grants an armament the Poison affinity and the following skill: \"Poison Moth Flight: Slash with a poison-infused blade. If the follow-up strike lands on a poisoned foe, it will deal significant damage.\" Usable on small and medium swords (twinblades excepted). "
       },
       {
         "itemNo": "12000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Spinning Weapon",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Spinning Weapon: Defensive skill employed by Carian princesses. Lifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks.\" Usable on small and medium swords, axes, and hammers, as well as polearms and staves (great spears excepted) "
       },
       {
         "itemNo": "12100",
-        "itemName": "Ashes of War",
+        "itemName": "Ashes of War: Wicked Stance",
         "content": "Affix to weapon to enable use of the Skill: Wicked Stance "
       },
       {
         "itemNo": "12200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Storm Assault",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Assault: One of the skills that channel the tempests of Stormveil. Leap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact.\" Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades. "
       },
       {
         "itemNo": "12300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Stormcaller",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Stormcaller: One of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks.\" Usable on swords capable of slashing, axes, hammers, and polearms (small and colossal weapons excepted) "
       },
       {
         "itemNo": "12400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Sword Dance",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Sword Dance: Quickly close in to perform a series of spinning upward slashes. Follow up with an additional input to finish with a downward slash.\" Usable on swords, axes, and polearms capable of slashing (colossal weapons and great spears excepted). "
       },
       {
         "itemNo": "12500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Spinning Chain",
         "content": "This Ash of War grants an armament the Skill: Pulverize. "
       },
       {
         "itemNo": "20000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Glintblade Phalanx",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Glintblade Phalanx: Skill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust.\" Usable on swords as well as polearms capable of thrusting (colossal weapons excepted). "
       },
       {
         "itemNo": "20100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Sacred Blade",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Blade: Grants armament's attacks holy essence and fires off a golden blade projectile. The armament retains its holy essence for a while.\" Usable on melee armaments (whips, fists, and claws excepted). "
       },
       {
         "itemNo": "20200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Ice Spear",
         "content": "This Ash of War grants an armament the Cold affinity and the following skill: \"Ice Spear: Skill of the warriors who served Lunar Princess Ranni. Spin armament to release cold magic, then channel it into a piercing spear of ice.\" Usable on polearms capable of thrusting and twinblades. "
       },
       {
         "itemNo": "20300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Glintstone Pebble",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Glintstone Pebble: Skill that employs the glintstone sorcery of the same name. Follow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone.\" Usable on swords as well as polearms capable of thrusting (colossal weapons excepted). "
       },
       {
         "itemNo": "20400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Bloody Slash",
         "content": "This Ash of War grants an armament the Blood affinity and the following skill: \"Bloody Slash: Blood Oath skill granted by the Lord of Blood. From a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc.\" Usable on swords (colossal weapons excepted). "
       },
       {
         "itemNo": "20500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Lifesteal Fist",
         "content": "This Ash of War grants an armament the Occult affinity and the following skill: \"Lifesteal Fist: Skill that demonstrates mastery of the art of controlling vital energies. A slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build.\" Usable on fists and claws. "
       },
       {
         "itemNo": "20700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Eruption",
         "content": "This Ash of War grants an armament the Fire affinity and the following skill: \"Eruption: Skill of the knights who serve at Volcano Manor. Slam armament into the ground, spawning roiling lava which spouts up upon release.\" Usable on large and colossal swords, axes, and hammers. "
       },
       {
         "itemNo": "20800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Prayerful Strike",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Prayerful Strike: Raise armament aloft in prayer, then slam it into the ground. This inspired blow restores HP to the self and nearby allies if it successfully hits.\" Usable on axes and hammers. "
       },
       {
         "itemNo": "20900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Gravitas",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Gravitas: Skill originating from the Alabaster Lords, who had skin of stone. Thrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack pulls enemies in.\" Usable on melee armaments (small armaments and whips excepted). "
       },
       {
         "itemNo": "21000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Storm Blade",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Blade: Lost skill of Stormveil. Surround armament with shearing storm winds that can be fired forward. Can be fired in rapid succession.\" Usable on swords (colossal weapons and twinblades excepted). "
       },
       {
         "itemNo": "21200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Earthshaker",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Earthshaker: Thrust armament into the ground, then gather strength to unleash an earth-shaking shockwave. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons. "
       },
       {
         "itemNo": "21300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Golden Land",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Land: Thrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons. "
       },
       {
         "itemNo": "21400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Flaming Strike",
         "content": "This Ash of War grants an armament the Fire affinity and the following skill: \"Flaming Strike: Skill that emits flame in a wide frontward arc. Follow up with a strong attack to perform a lunging, sweeping strike. This will also coat the armament in fire.\" Usable on melee armaments (colossal weapons and whips excepted). "
       },
       {
         "itemNo": "21600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Thunderbolt",
         "content": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Thunderbolt: Skill used by the capital's ancient dragon cult. Raise armament aloft to call down a bolt of lightning. Can be fired in rapid succession.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "21700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Lightning Slash",
         "content": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Lightning Slash: Call down a bolt of lightning into armament, then swing it down to create an explosive shock. The armament retains the lightning enchantment for a while.\" Usable on swords, axes, and hammers. "
       },
       {
         "itemNo": "21800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Carian Grandeur",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Grandeur: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power by up to two levels.\" Usable on swords (colossal weapons excepted). "
       },
       {
         "itemNo": "21900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Carian Greatsword",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Greatsword: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power.\" Usable on swords (colossal weapons excepted). "
       },
       {
         "itemNo": "22000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Vacuum Slice",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Vacuum Slice: Lost skill of ancient heroes. Hold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile.\" Usable on swords and axes (small and colossal axes excepted). "
       },
       {
         "itemNo": "22100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Black Flame Tornado",
         "content": "This Ash of War grants an armament the Flame Art affinity and the following skill: \"Black Flame Tornado: Spin armament overhead and then plunge it into the ground to summon a raging vortex of black flames. Hold to create an initial flame tornado while spinning the armament.\" Usable on polearms and twinblades. "
       },
       {
         "itemNo": "22200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Sacred Ring of Light",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Ring of Light: Skill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, then fire it forwards. Can be fired in rapid succession.\" Usable on polearms (great spears excepted). "
       },
       {
         "itemNo": "22300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Firebreather",
         "content": "This Ash of War grants an armament the Skill: Fire Breath. "
       },
       {
         "itemNo": "22400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Blood Blade",
         "content": "This Ash of War grants an armament the Blood affinity and the following skill: \"Blood Blade: Wound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging. Can be fired in rapid succession.\" Usable on small and medium swords. "
       },
       {
         "itemNo": "22500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Phantom Slash",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Phantom Slash: Skill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack.\" Usable on polearms and twinblades (great spears excepted). "
       },
       {
         "itemNo": "22600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Spectral Lance",
         "content": "This Ash of War grants an armament the Occult affinity and the following skill: \"Spectral Lance: Skill of the headless Mausoleum Knights. Hurl a phantasmic spear at foes.\" Usable on polearms (reapers excepted). "
       },
       {
         "itemNo": "22700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Chilling Mist",
         "content": "This Ash of War grants an armament the Cold affinity and the following skill: \"Chilling Mist: Coat armament in frost, and then slash, spreading frigid mist forwards. The armament retains its frost for a while.\" Usable on melee armaments (whips, fists, and claws excepted). "
       },
       {
         "itemNo": "22800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Poisonous Mist",
         "content": "This Ash of War grants an armament the Poison affinity and the following skill: \"Poisonous Mist: Bathe armament in poison, and then slash, spreading toxic mist forwards. The armament retains its poison for a while.\" Usable on melee armaments (whips, fists, and claws excepted). "
       },
       {
         "itemNo": "30000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Shield Bash",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Shield Bash: Brace behind shield before using bodyweight to ram foes while maintaining guarding stance. Weaker enemies will be shoved backwards, and can even be staggered.\" Usable on all shields. "
       },
       {
         "itemNo": "30100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Barricade Shield",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Barricade Shield: Skill made famous by Sir Neidhardt. Focus your energy into the shield, temporarily hardening it to deflect greater blows.\" Usable on all shields. "
       },
       {
         "itemNo": "30200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Parry",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Parry: Use this skill in time with a foe's melee attack to deflect it and break that foe's stance. This provides an opening to perform a critical hit.\" Usable on daggers, curved swords, thrusting swords, fists, claws, and small and medium shields. "
       },
       {
         "itemNo": "30300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Buckler Parry",
         "content": "This Ash of War grants an armament the Skill: Buckler Parry. "
       },
       {
         "itemNo": "30400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Parry",
         "content": "This Ash of War grants an armament the Skill: Parry. "
       },
       {
         "itemNo": "30500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Carian Retaliation",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Retaliation: Swing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades. Can also be used in the same way as a regular parry.\" Usable on small and medium shields. "
       },
       {
         "itemNo": "30600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Storm Wall",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Storm Wall: Swing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles. Can also be used in the same way as a regular parry.\" Usable on small and medium shields. "
       },
       {
         "itemNo": "30700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Golden Parry",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Parry: Perform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance. Effective even at a slight distance.\" Usable on small and medium shields. "
       },
       {
         "itemNo": "30800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Shield Crash",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Shield Crash: Two-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered. Hold to extend the duration of the charge forwards.\" Usable on all shields. "
       },
       {
         "itemNo": "30900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: No Skill",
         "content": "This Ash of War grants no affinity to an armament and replaces any skill present with the following: \"No skill: This armament has no skill. If the armament in the other hand has a skill, that skill will be used instead.\" Usable on shields and torches. "
       },
       {
         "itemNo": "31000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Thops's Barrier",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Thops's Barrier: Erect a magical forcefield while swinging the shield to deflect sorceries and incantations. Can also be used in the same way as a regular parry.\" Usable on small and medium shields. "
       },
       {
         "itemNo": "40000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Through and Through",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Through and Through: Powerful archery skill using a greatbow held in an oblique stance. Ready the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies.\" Usable on greatbows. "
       },
       {
         "itemNo": "40100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Barrage",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Barrage: Archery skill using a bow held horizontally. Ready the bow, then fire off a rapid succession of shots faster than the eye can see.\" Usable on light bows. "
       },
       {
         "itemNo": "40200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Mighty Shot",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Mighty Shot: Archery skill performed from an oblique stance. Ready the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard.\" Usable on light bows and longbows. "
       },
       {
         "itemNo": "40400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Enchanted Shot",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Enchanted Shot: Archery skill that enlivens the arrow with spiritual essence. The resulting shot will fly faster than regular shots and change its trajectory to follow the target.\" Usable on light bows and longbows. "
       },
       {
         "itemNo": "40500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Sky Shot",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Sky Shot: Archery skill performed from a low stance. Ready the bow, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down.\" Usable on light bows and longbows. "
       },
       {
         "itemNo": "40600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Rain of Arrows",
         "content": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Rain of Arrows: Archery skill performed from a low stance. Ready the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles.\" Usable on all bows. "
       },
       {
         "itemNo": "40700",
-        "itemName": "Ashes of War",
+        "itemName": "Ashes of War: Invisible Arrow",
         "content": "Affix to weapon to enable use of the Skill: Invisible Arrow "
       },
       {
         "itemNo": "50100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Hoarfrost Stomp",
         "content": "This Ash of War grants an armament the Cold affinity and the following skill: \"Hoarfrost Stomp: Stomp hard to spread a trail of freezing mist on the ground. The mist applies the frost status effect.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Storm Stomp",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Stomp: One of the skills that channel the tempests of Stormveil. Stomp hard on the ground to kick up a momentary storm.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Kick",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Kick: Push an enemy back with a high kick. Effective against enemies who are guarding, and can break a foe's stance. Sometimes a simple tool is the most effective.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Lightning Ram",
         "content": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Lightning Ram: Skill inspired by tumbling rams. Let out a bleat, then tumble forwards, clad in lightning. Tumbles can be repeated in rapid succession.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Flame of the Redmanes",
         "content": "This Ash of War grants an armament the Fire affinity and the following skill: \"Flame of the Redmanes: Skill of the Redmanes, who fought alongside General Radahn. Produce a powerful burst of flames in a wide frontward arc.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Ground Slam",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Ground Slam: Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends a powerful shockwave in all directions.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Golden Slam",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Slam: Skill of the avatars who protect Minor Erdtrees. Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "50800",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Waves of Darkness",
         "content": "This Ash of War grants an armament the Magic affinity and the following skill: \"Waves of Darkness: Plunge armament into the ground to release three waves of darkness. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons. "
       },
       {
         "itemNo": "50900",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Hoarah Loux's Earthshaker",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Hoarah Loux's Earthshaker: Slam both hands onto the ground to violently shake the earth and unleash a shockwave. Follow up with an additional input to slam the ground again.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Determination",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Determination: A knightly skill. Hold the flat of the armament to your face and pledge your resolve, powering up your next attack.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Royal Knight's Resolve",
         "content": "This Ash of War grants an armament the Quality affinity and the following skill: \"Royal Knight's Resolve: Skill of the knights who once served the Elden Lord. Hold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Assassin's Gambit",
         "content": "This Ash of War grants an armament the Occult affinity and the following skill: \"Assassin's Gambit: Skill that masks the user's presence at the cost of a self-inflicted wound. Grants near-invisibility and silences footsteps.\" Usable on small and medium straight swords and thrusting swords. "
       },
       {
         "itemNo": "60300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Golden Vow",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Vow: Skill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Sacred Order",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Order: Skill of the Golden Order fundamentalist knights. Perform a salute and grant the armament holy essence. Highly effective against Those Who Live in Death.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60500",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Shared Order",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Shared Order: Skill of the Golden Order fundamentalist knights. Grant the armament and those of nearby allies holy essence. Highly effective against Those Who Live in Death.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "60600",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Seppuku",
         "content": "This Ash of War grants an armament the Blood affinity and the following skill: \"Seppuku: A forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss.\" Usable on swords as well as polearms capable of thrusting (small and colossal weapons excepted). "
       },
       {
         "itemNo": "60700",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Cragblade",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Cragblade: Skill that manipulates gravity. Bury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance.\" Usable on melee armaments (whips excepted). "
       },
       {
         "itemNo": "65000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Barbaric Roar",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Barbaric Roar: Let loose a bestial roar to rally the spirit and increase attack power. While active, strong attacks change to savage combo attacks.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted). "
       },
       {
         "itemNo": "65100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: War Cry",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"War Cry: Give a war cry to rally the spirit and increase attack power. While active, strong attacks change to charging attacks.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted). "
       },
       {
         "itemNo": "65200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Beast's Roar",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Beast's Roar: Unleash a beastly roar, rending the air as a forward-travelling projectile.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "65300",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Troll's Roar",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Troll's Roar: Look into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes. Follow up with a strong attack to slam the armament down.\" Usable on large and colossal swords, axes, and hammers. "
       },
       {
         "itemNo": "65400",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Braggart's Roar",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Braggart's Roar: Declare your presence with a boastful roar. Raises attack power, defense, and stamina recovery speed.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted). "
       },
       {
         "itemNo": "70000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Endure",
         "content": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Endure: Assume an anchored stance to brace for incoming attacks, briefly boosting poise. Damage taken while using this skill is reduced.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "70100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Vow of the Indomitable",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Vow of the Indomitable: Skill of the ancient warriors of the Erdtree. Hold shield aloft to imbue yourself with golden power, granting momentary invincibility.\" Usable on all shields. "
       },
       {
         "itemNo": "70200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Holy Ground",
         "content": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Holy Ground: Raise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it.\" Usable on all shields. "
       },
       {
         "itemNo": "80000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Quickstep",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Quickstep: Skill prized by the crafty and fleet of foot. Perform a quickstep maneuver that allows for circling around lock-on targets.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "80100",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Bloodhound's Step",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Bloodhound's Step: Skill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep. This skill can be used to circle around lock-on targets.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "80200",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: Raptor of the Mists",
         "content": "This Ash of War grants an armament the Keen affinity and the following skill: \"Raptor of the Mists: Duck into a low stance, momentarily vanishing. If an enemy attack connects, avian wings will allow for a quick escape into the air.\" Usable on all melee armaments. "
       },
       {
         "itemNo": "85000",
-        "itemName": "Ash of War",
+        "itemName": "Ash of War: White Shadow's Lure",
         "content": "This Ash of War grants an armament the Occult affinity and the following skill: \"White Shadow's Lure: Hold armament in a brief, silent prayer to create a white shadow. The apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state.\" Usable on all melee armaments. "
       }
     ]
@@ -2288,7 +2288,7 @@
       },
       {
         "itemNo": "630",
-        "itemName": "Cursed",
+        "itemName": "Cursed-Blood Pot",
         "content": "Craftable item prepared using a ritual pot. Decorated with the crest of the Lord of Blood. Throw at enemies to douse them in accursed blood, causing summoned spirits to assail them with a rabid fervor. A childhood memory of the Lord of Blood. "
       },
       {
@@ -2443,12 +2443,12 @@
       },
       {
         "itemNo": "1190",
-        "itemName": "Silver",
+        "itemName": "Silver-Pickled Fowl Foot",
         "content": "Four-toed foot of a fowl, pickled in a silvery medicinal solution. Craftable item. Temporarily boosts item discovery. Since old times, the needy would scrape the meat clean even from a fowl's claw. "
       },
       {
         "itemNo": "1200",
-        "itemName": "Gold",
+        "itemName": "Gold-Pickled Fowl Foot",
         "content": "Four-toed foot of a fowl, pickled in a golden medicinal solution. Craftable item. Boosts the amount of runes obtained from defeating enemies for a certain duration. Since old times, the needy would scrape the meat clean even from a fowl's claw. "
       },
       {
@@ -3833,17 +3833,17 @@
       },
       {
         "itemNo": "7500",
-        "itemName": "Aspects of the Crucible",
+        "itemName": "Aspects of the Crucible: Tail",
         "content": "One of the ancient Erdtree incantations. Creates a supple tail that sweeps through foes before the caster. Charging enhances potency. This is a manifestation of the Erdtree's primal vital energies\u2014an aspect of the primordial crucible, where all life was once blended together. "
       },
       {
         "itemNo": "7510",
-        "itemName": "Aspects of the Crucible",
+        "itemName": "Aspects of the Crucible: Horns",
         "content": "One of the ancient Erdtree incantations. Creates a mighty horn on the caster's shoulder to gore foes from a low stance. Charging allows the caster to barrel into foes before delivering the final attack. This is a manifestation of the Erdtree's primal vital energies\u2014an aspect of the primordial crucible, where all life was once blended together. "
       },
       {
         "itemNo": "7520",
-        "itemName": "Aspects of the Crucible",
+        "itemName": "Aspects of the Crucible: Breath",
         "content": "One of the ancient Erdtree incantations. Creates a throat pouch on the caster's neck, allowing them to spew fiery breath while walking. Charging increases duration of the breath. This is a manifestation of the Erdtree's primal vital energies\u2014an aspect of the primordial crucible, where all life was once blended together. "
       },
       {
@@ -3948,7 +3948,7 @@
       },
       {
         "itemNo": "8134",
-        "itemName": "Drawing",
+        "itemName": "Drawing-Room Key",
         "content": "Key to Volcano Manor's drawing room. The door can be found in the westward corridor, upon the left hand side. "
       },
       {
@@ -4123,7 +4123,7 @@
       },
       {
         "itemNo": "8183",
-        "itemName": "Mending Rune of the Death",
+        "itemName": "Mending Rune of the Death-Prince",
         "content": "Rune gestated by Fia, the Deathbed Companion. Used to restore the fractured Elden Ring when brandished by the Elden Lord. Formed of the two hallowbrand half-wheels combined, it will embed the principle of life within Death into Order. The Golden Order was created by confining Destined Death. Thus, this new Order will be one of Death restored. "
       },
       {
@@ -4193,7 +4193,7 @@
       },
       {
         "itemNo": "8197",
-        "itemName": "Sewer",
+        "itemName": "Sewer-Gaol Key",
         "content": "Filthy key received from the Dung Eater. Unlocks sewer-gaol door said to lie beneath Leyndell, the Royal Capital. "
       },
       {
@@ -4268,97 +4268,97 @@
       },
       {
         "itemNo": "8600",
-        "itemName": "Map",
+        "itemName": "Map: Limgrave",
         "content": "Map of the western region of Limgrave. The demesne of Limgrave, far south of the Erdtree, is bordered to the northwest by the cliffs of Stormveil, and under its ever-clouded skies roll the great steppes of the pale lands. "
       },
       {
         "itemNo": "8601",
-        "itemName": "Map",
+        "itemName": "Map: Weeping Peninsula",
         "content": "Map of the Weeping Peninsula. The peninsula, to Limgrave's south, is named for its unceasing rainfall, redolent of lament. "
       },
       {
         "itemNo": "8602",
-        "itemName": "Map",
+        "itemName": "Map: Limgrave",
         "content": "Map of the eastern region of Limgrave. Other than the Mistwood which envelops the south, it is known for its lands which lead to Caelid, a path trod by many a soldier in the past. "
       },
       {
         "itemNo": "8603",
-        "itemName": "Map",
+        "itemName": "Map: Liurnia",
         "content": "Map of Liurnia's eastern region. The majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The eastern coast is home to a highroad running north and south. "
       },
       {
         "itemNo": "8604",
-        "itemName": "Map",
+        "itemName": "Map: Liurnia",
         "content": "Map of Liurnia's northern region. The Academy of Raya Lucaria towers over the north, while at its base spreads the town built around it, now flooded. Two highroads end their journeys here. "
       },
       {
         "itemNo": "8605",
-        "itemName": "Map",
+        "itemName": "Map: Liurnia",
         "content": "Map of Liurnia's western region. The majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The western coast has always been closely associated with Carian royalty. "
       },
       {
         "itemNo": "8606",
-        "itemName": "Map",
+        "itemName": "Map: Altus Plateau",
         "content": "Map of Altus Plateau and environs. The Altus Plateau, where the Erdtree's base can be found, contains the Royal Capital of Leyndell to the east, and Mt. Gelmir to the west. Scars from the Shattering remain apparent to this day. "
       },
       {
         "itemNo": "8607",
-        "itemName": "Map",
+        "itemName": "Map: Leyndell",
         "content": "Map of the Royal Capital of Leyndell and environs. Leyndell, City of the Erdtree, is a metropolis enclosed by double ramparts. The inner wall remains unbreached to this day. "
       },
       {
         "itemNo": "8608",
-        "itemName": "Map",
+        "itemName": "Map: Mt",
         "content": "Map of Mt. Gelmir and environs. Mt. Gelmir, which houses the Volcano Manor at its summit, is characterized by sheer cliffs and ominous skies. These qualities only became more pronounced after the Shattering. "
       },
       {
         "itemNo": "8609",
-        "itemName": "Map",
+        "itemName": "Map: Caelid",
         "content": "Map of Caelid and environs. Caelid, known as the locale of the last battle between General Radahn and Malenia, Blade of Miquella, is a vast land consummately marred by scarlet rot. "
       },
       {
         "itemNo": "8610",
-        "itemName": "Map",
+        "itemName": "Map: Dragonbarrow",
         "content": "Map of Dragonbarrow and environs. The dragons that escaped the scarlet rot made a nest of the plateau to Caelid's north. Thus it was named \"Dragonbarrow,\" and none dare to enter. "
       },
       {
         "itemNo": "8611",
-        "itemName": "Map",
+        "itemName": "Map: Mountaintops of the Giants",
         "content": "Map of Western Mountaintops of the Giants. Marching ground during the War against the Giants. They carved winding paths in the cliff walls right up to the summit, leading to the untrodden snow-laden region beyond. "
       },
       {
         "itemNo": "8612",
-        "itemName": "Map",
+        "itemName": "Map: Mountaintops of the Giants",
         "content": "Map of Eastern Mountaintops of the Giants. The remote, desolate eastern summit is the highest point in all the Lands Between, overlooking even the Flame Peak to the south. "
       },
       {
         "itemNo": "8613",
-        "itemName": "Map",
+        "itemName": "Map: Ainsel River",
         "content": "Map of Ainsel River and environs. Two great rivers flow beneath the Lands Between, the Siofra and the Ainsel. This vast region is said to be the grave of civilizations that flourished before the Erdtree. "
       },
       {
         "itemNo": "8614",
-        "itemName": "Map",
+        "itemName": "Map: Lake of Rot",
         "content": "Map of Lake of Rot and environs. A great lake of standing water downstream of the Ainsel River. It is said that the divine essence of an outer god is sealed away in this land. "
       },
       {
         "itemNo": "8615",
-        "itemName": "Map",
+        "itemName": "Map: Siofra River",
         "content": "Map of Siofra River and environs Two great rivers flow beneath the Lands Between, the Siofra and the Ainsel. This vast region is said to be the grave of civilizations that flourished before the Erdtree. "
       },
       {
         "itemNo": "8616",
-        "itemName": "Map",
+        "itemName": "Map: Mohgwyn Palace",
         "content": "Map of Mohgwyn Palace and environs. In the lightless depths lies the grave of an ancient civilization. It is here Mohg, the Lord of Blood, is building his palace, to be the seat of his coming dynasty named Mohgwyn. And whatever nightmares that may bring. "
       },
       {
         "itemNo": "8617",
-        "itemName": "Map",
+        "itemName": "Map: Deeproot Depths",
         "content": "Map of Deeproot Depths and environs. At the very depths of the Erdtree's majestic roots lies the source of the Ainsel and the Siofra rivers. Here too begins the network of Greattree roots that spread throughout the Lands Between. "
       },
       {
         "itemNo": "8618",
-        "itemName": "Map",
+        "itemName": "Map: Consecrated Snowfield",
         "content": "Map of Consecrated Snowfield and environs. The route through this land, crossed east to west by a frozen river, leads to Miquella's Haligtree. This is the path taken by those unchosen, though it is a trial all the same. "
       },
       {
@@ -4368,162 +4368,162 @@
       },
       {
         "itemNo": "8700",
-        "itemName": "Note",
+        "itemName": "Note: Hidden Cave",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"There is a hidden cave in the town of Sellia. Look beyond the graveyard at the precipice.\" "
       },
       {
         "itemNo": "8701",
-        "itemName": "Note",
+        "itemName": "Note: Imp Shades",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Nothing can touch the shades of imps in the heroes' graveyard. Only Rosus's light can give them form.\" "
       },
       {
         "itemNo": "8702",
-        "itemName": "Note",
+        "itemName": "Note: Flask of Wondrous Physick",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"A Flask of Wondrous Physick still remains in the Third Church of Marika, north of the Mistwood. Cross the highway bridge and follow the animal trail north.\" "
       },
       {
         "itemNo": "8703",
-        "itemName": "Note",
+        "itemName": "Note: Stonedigger Trolls",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"The heads of the stonedigger trolls bear old wounds.\" "
       },
       {
         "itemNo": "8704",
-        "itemName": "Note",
+        "itemName": "Note: Walking Mausoleum",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"To stop the mausoleum's stride, you'll need to clean up around its feet first.\" "
       },
       {
         "itemNo": "8705",
-        "itemName": "Note",
+        "itemName": "Note: Unseen Assassins",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Some assassins cannot be seen with the naked eye. Seems the Erdtree sentries once carried torches that could cast light on these prowlers.\" "
       },
       {
         "itemNo": "8706",
-        "itemName": "Note",
+        "itemName": "Note: Great Coffins",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Great coffins travel the Lands Between, carrying the bodies of nameless fallen warriors. Might be a good source of armaments...\" "
       },
       {
         "itemNo": "8707",
-        "itemName": "Note",
+        "itemName": "Note: Flame Chariots",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Beware the Fire Monks' chariots bearing the faces of giants. A well-aimed blow to the chimney on top may prove effective, but opportunities for a plunging attack will be rare indeed.\" "
       },
       {
         "itemNo": "8708",
-        "itemName": "Note",
+        "itemName": "Note: Demi-human Mobs",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Slay the demi-human mob's leader first, and the rest will lose hope and panic.\" "
       },
       {
         "itemNo": "8709",
-        "itemName": "Note",
+        "itemName": "Note: Land Squirts",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Land squirts are soft where they touch the ground, and poison will cause them to rupture.\" "
       },
       {
         "itemNo": "8710",
-        "itemName": "Note",
+        "itemName": "Note: Gravity's Advantage",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Gravitational power that pulls can bring flying foes low.\" "
       },
       {
         "itemNo": "8711",
-        "itemName": "Note",
+        "itemName": "Note: Revenants",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"The crawling royal revenants and their followers are all cursed. Healing powers will harm rather than mend.\" "
       },
       {
         "itemNo": "8712",
-        "itemName": "Note",
+        "itemName": "Note: Waypoint Ruins",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Someone lurks among the waypoint ruins on the roads through Limgrave.\" "
       },
       {
         "itemNo": "8713",
-        "itemName": "Note",
+        "itemName": "Note: Gateway",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"Fort Gael in Caelid houses a gateway that leads to Redmane Castle.\" "
       },
       {
         "itemNo": "8714",
-        "itemName": "Note",
+        "itemName": "Note: Miquella's Needle",
         "content": "Note written by a nomadic merchant succinctly detailing knowledge acquired. \"The Empyrean Miquella crafted a needle to resist the influence of outer gods. Those who have inherited the flame of frenzy, yet wish not to become its lord would do well to seek Miquella's needle.\" "
       },
       {
         "itemNo": "8715",
-        "itemName": "Note",
+        "itemName": "Note: Frenzied Flame Village",
         "content": "Note sold by a nomadic merchant imparting knowledge in brief. \"South of the Grand Lift of Dectus lies the Frenzied Flame Village, inhabited by the sick. Stay well away.\" "
       },
       {
         "itemNo": "8716",
-        "itemName": "Note",
+        "itemName": "Note: The Lord of Frenzied Flame",
         "content": "Note written by a nomadic merchant succinctly detailing knowledge acquired. \"Beneath Leyndell, at the very bottom lies our lord, lord of the frenzied. The Three Fingers who holds us in thrall.\" "
       },
       {
         "itemNo": "8750",
-        "itemName": "Note",
+        "itemName": "Note: Hidden Cave",
         "content": "A note sold by a nomadic merchant. Contains information about a hidden cave. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8751",
-        "itemName": "Note",
+        "itemName": "Note: Imp Shades",
         "content": "A note sold by a nomadic merchant. Contains information about imp shades. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8752",
-        "itemName": "Note",
+        "itemName": "Note: Flask of Wondrous Physick",
         "content": "A note sold by a nomadic merchant. Contains information about a Flask of Wondrous Physick. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8753",
-        "itemName": "Note",
+        "itemName": "Note: Stonedigger Trolls",
         "content": "A note sold by a nomadic merchant. Contains information about stonedigger trolls. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8754",
-        "itemName": "Note",
+        "itemName": "Note: Walking Mausoleum",
         "content": "A note sold by a nomadic merchant. Contains information about the Wandering Mausoleum. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8755",
-        "itemName": "Note",
+        "itemName": "Note: Unseen Assassins",
         "content": "A note sold by a nomadic merchant. Contains information about unseen assassins. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8756",
-        "itemName": "Note",
+        "itemName": "Note: Great Coffins",
         "content": "A note sold by a nomadic merchant. Contains information about great coffins. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8757",
-        "itemName": "Note",
+        "itemName": "Note: Flame Chariots",
         "content": "A note sold by a nomadic merchant. Contains information about flame chariots. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8758",
-        "itemName": "Note",
+        "itemName": "Note: Demi-human Mobs",
         "content": "A note sold by a nomadic merchant. Contains information about demi-human mobs. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8759",
-        "itemName": "Note",
+        "itemName": "Note: Land Squirts",
         "content": "A note sold by a nomadic merchant. Contains information about land squirts. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8760",
-        "itemName": "Note",
+        "itemName": "Note: Gravity's Advantage",
         "content": "A note sold by a nomadic merchant. Contains information about advantageous use of gravity. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8761",
-        "itemName": "Note",
+        "itemName": "Note: Revenants",
         "content": "A note sold by a nomadic merchant. Contains information about revenants. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8762",
-        "itemName": "Note",
+        "itemName": "Note: Waypoint Ruins",
         "content": "A note sold by a nomadic merchant. Contains information about waypoint ruins. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8763",
-        "itemName": "Note",
+        "itemName": "Note: Gateway",
         "content": "A note sold by a nomadic merchant. Contains information about a gateway. Further details are available only to paying customers. "
       },
       {
         "itemNo": "8765",
-        "itemName": "Note",
+        "itemName": "Note: Frenzied Flame Village",
         "content": "A note sold by a nomadic merchant. Contains information about the Frenzied Flame Village. Further details are available only to paying customers. "
       },
       {
@@ -4708,22 +4708,22 @@
       },
       {
         "itemNo": "1 8951",
-        "itemName": "Smithing",
+        "itemName": "Smithing-Stone Miner's Bell Bearing",
         "content": "The bell bearing of a miner who once dug for smithing stone. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Smithing Stone [1]\nSmithing Stone [2]\nGlintstone Scrap "
       },
       {
         "itemNo": "2 8952",
-        "itemName": "Smithing",
+        "itemName": "Smithing-Stone Miner's Bell Bearing",
         "content": "The bell bearing of a miner who once dug for smithing stone. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Smithing Stone [3]\nSmithing Stone [4]\nExplosive Stone "
       },
       {
         "itemNo": "3 8953",
-        "itemName": "Smithing",
+        "itemName": "Smithing-Stone Miner's Bell Bearing",
         "content": "The bell bearing of a miner who once dug for smithing stone. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Smithing Stone [5]\nSmithing Stone [6] "
       },
       {
         "itemNo": "4 8954",
-        "itemName": "Smithing",
+        "itemName": "Smithing-Stone Miner's Bell Bearing",
         "content": "The bell bearing of a miner who once dug for smithing stone. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Smithing Stone [7]\nSmithing Stone [8]\nRuin Fragment "
       },
       {
@@ -4768,17 +4768,17 @@
       },
       {
         "itemNo": "1 8963",
-        "itemName": "Ghost",
+        "itemName": "Ghost-Glovewort Picker's Bell Bearing",
         "content": "The bell bearing of a forager who once picked ghost glovewort flowers. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Ghost Glovewort [1]\nGhost Glovewort [2]\nGhost Glovewort [3] "
       },
       {
         "itemNo": "2 8964",
-        "itemName": "Ghost",
+        "itemName": "Ghost-Glovewort Picker's Bell Bearing",
         "content": "The bell bearing of a forager who once picked ghost glovewort flowers. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Ghost Glovewort [4]\nGhost Glovewort [5]\nGhost Glovewort [6] "
       },
       {
         "itemNo": "3 8965",
-        "itemName": "Ghost",
+        "itemName": "Ghost-Glovewort Picker's Bell Bearing",
         "content": "The bell bearing of a forager who once picked ghost glovewort flowers. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: Ghost Glovewort [7]\nGhost Glovewort [8]\nGhost Glovewort [9] "
       },
       {
@@ -4788,7 +4788,7 @@
       },
       {
         "itemNo": "8971",
-        "itemName": "Red",
+        "itemName": "Red-Hot Whetblade",
         "content": "Red-hot whetblade with a cipher engraved. Can be used as a whetstone knife. When applying an affinity using physical or flame-type ashes of war, an additional affinity of fire or flame art can be chosen. "
       },
       {
@@ -4863,7 +4863,7 @@
       },
       {
         "itemNo": "9104",
-        "itemName": "About Stance",
+        "itemName": "About Stance-Breaking",
         "content": "Some attacks may break an enemy's stance, giving you a chance to perform a critical hit. Charge attacks and jump attacks make it particularly easy to break an enemy's stance. Hold DELETED: Charge attack while jumping: Jump attack "
       },
       {
@@ -5693,22 +5693,22 @@
       },
       {
         "itemNo": "11021",
-        "itemName": "Strength",
+        "itemName": "Strength-knot Crystal Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's strength. "
       },
       {
         "itemNo": "11022",
-        "itemName": "Dexterity",
+        "itemName": "Dexterity-knot Crystal Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's dexterity. "
       },
       {
         "itemNo": "11023",
-        "itemName": "Intelligence",
+        "itemName": "Intelligence-knot Crystal Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's intelligence. "
       },
       {
         "itemNo": "11024",
-        "itemName": "Faith",
+        "itemName": "Faith-knot Crystal Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's faith. "
       },
       {
@@ -5728,22 +5728,22 @@
       },
       {
         "itemNo": "11028",
-        "itemName": "Flame",
+        "itemName": "Flame-Shrouding Cracked Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts the power of one's fire attacks. "
       },
       {
         "itemNo": "11029",
-        "itemName": "Magic",
+        "itemName": "Magic-Shrouding Cracked Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts the power of one's magic attacks. "
       },
       {
         "itemNo": "11030",
-        "itemName": "Lightning",
+        "itemName": "Lightning-Shrouding Cracked Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts the power of one's lightning attacks. "
       },
       {
         "itemNo": "11031",
-        "itemName": "Holy",
+        "itemName": "Holy-Shrouding Cracked Tear",
         "content": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts the power of one's holy attacks. "
       },
       {
@@ -5788,7 +5788,7 @@
       },
       {
         "itemNo": "15080",
-        "itemName": "Four",
+        "itemName": "Four-Toed Fowl Foot",
         "content": "A four-toed fowl's foot. Material used for crafting items. In the Lands Between, having three digits is seen as a bad omen. As such, the four-toed fowl's foot is a gift of great luck indeed. "
       },
       {
@@ -6053,12 +6053,12 @@
       },
       {
         "itemNo": "20830",
-        "itemName": "Gold",
+        "itemName": "Gold-Tinged Excrement",
         "content": "Someone's excrement. It has a golden tinge. Material used for crafting items. Often hidden in woods and thickets. Gold-tinged excrement is a highly stable substance; it doesn't dry out, nor does it lose its customary warmth or scent. For better or for worse, it remains as it is. "
       },
       {
         "itemNo": "20831",
-        "itemName": "Blood",
+        "itemName": "Blood-Tainted Excrement",
         "content": "The bloody excrement of a carnivorous beast. Material used for crafting items. Found in the land of the new dynasty. Mixed inside with half-digested flesh are dense colonies of tiny eggs of unknown but assuredly revolting origin. "
       },
       {
@@ -6253,7 +6253,7 @@
       },
       {
         "itemNo": "229000",
-        "itemName": "Man",
+        "itemName": "Man-Serpent Ashes",
         "content": "Ashen remains in which spirits yet dwell. Use to summon the spirit of a man-serpent. Spirit of a deformed man-serpent that wields a whip of magma. It is said that long ago, the elder serpent that dwelled on Mt. Gelmir devoured a demigod, and the birth of the man-serpents followed. "
       },
       {
@@ -6288,12 +6288,12 @@
       },
       {
         "itemNo": "234000",
-        "itemName": "Demi",
+        "itemName": "Demi-Human Ashes",
         "content": "Ashen remains in which spirits yet dwell. Use to summon the spirits of five demi-humans. Spirits of demi-humans that are small in stature, but have a violent, brutish disposition. Though they seem somewhat intelligent, when night falls, their blood boils and they become feral. "
       },
       {
         "itemNo": "234001",
-        "itemName": "Demi",
+        "itemName": "Demi-Human Ashes",
         "content": "Ashen remains in which spirits yet dwell. Use to summon the spirits of five demi-humans. Spirits of demi-humans that are small in stature, but have a violent, brutish disposition. Though they may seem intelligent, when night falls, their blood boils and they become feral. "
       },
       {
@@ -6656,22 +6656,22 @@
       },
       {
         "itemNo": "140000",
-        "itemName": "Bull",
+        "itemName": "Bull-Goat Helm",
         "content": "Great Horned Tragoth's helm, adorned with a gold bull-goat motif. Provides high poise. Tragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid. "
       },
       {
         "itemNo": "140100",
-        "itemName": "Bull",
+        "itemName": "Bull-Goat Armor",
         "content": "Great Horned Tragoth's armor. Covers its wearer with a pair of giant horns, providing staunch poise. Tragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid. "
       },
       {
         "itemNo": "140200",
-        "itemName": "Bull",
+        "itemName": "Bull-Goat Gauntlets",
         "content": "Great Horned Tragoth's gauntlets, adorned with a gold bull-goat motif. Provide high poise. Tragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid. "
       },
       {
         "itemNo": "140300",
-        "itemName": "Bull",
+        "itemName": "Bull-Goat Greaves",
         "content": "Great Horned Tragoth's greaves, adorned with a gold bull-goat motif. Provide high poise. Tragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid. "
       },
       {
@@ -7481,22 +7481,22 @@
       },
       {
         "itemNo": "590000",
-        "itemName": "All",
+        "itemName": "All-Knowing Helm",
         "content": "Helm set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be. "
       },
       {
         "itemNo": "590100",
-        "itemName": "All",
+        "itemName": "All-Knowing Armor",
         "content": "Armor set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be. "
       },
       {
         "itemNo": "590200",
-        "itemName": "All",
+        "itemName": "All-Knowing Gauntlets",
         "content": "Gauntlets set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be. "
       },
       {
         "itemNo": "590300",
-        "itemName": "All",
+        "itemName": "All-Knowing Greaves",
         "content": "Greaves set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be. "
       },
       {
@@ -8286,7 +8286,7 @@
       },
       {
         "itemNo": "962100",
-        "itemName": "Upper",
+        "itemName": "Upper-Class Robe",
         "content": "Embroidered, bright green robe worn by noble children. Donning such a robe is traditionally the child's first show of burgeoning independence. "
       },
       {
@@ -8656,7 +8656,7 @@
       },
       {
         "itemNo": "1700100",
-        "itemName": "Tree",
+        "itemName": "Tree-and-Beast Surcoat",
         "content": "Armor worn by soldiers loyal to Godrick the Grafted. The surcoat depicts the distant Erdtree and the beast regent, an emblem of the golden lineage. Both are symbols of glory now past. "
       },
       {
@@ -8906,7 +8906,7 @@
       },
       {
         "itemNo": "1830100",
-        "itemName": "Chain",
+        "itemName": "Chain-Draped Tabard",
         "content": "Padded cloth armor with a chainmail shawl draped over the shoulders. Widely issued to foot soldiers in a lord's army. "
       },
       {
@@ -8936,7 +8936,7 @@
       },
       {
         "itemNo": "1850100",
-        "itemName": "Leather",
+        "itemName": "Leather-Draped Tabard",
         "content": "Padded cloth armor with a leather shawl draped over the shoulders. Widely issued to foot soldiers in a lord's army. "
       },
       {
@@ -8961,7 +8961,7 @@
       },
       {
         "itemNo": "1880100",
-        "itemName": "Ivory",
+        "itemName": "Ivory-Draped Tabard",
         "content": "Padded cloth armor with a shawl in the color of ivory draped over the shoulders. Worn by foot soldiers sworn to the Haligtree. "
       },
       {
@@ -8986,7 +8986,7 @@
       },
       {
         "itemNo": "1900000",
-        "itemName": "Ash",
+        "itemName": "Ash-of-War Scarab",
         "content": "Gray scarab worn directly on the head. These scarabs roll clumps of Ashes of War during their labors. Slightly reduces the FP cost of skills, but increases damage taken. "
       },
       {
@@ -9336,7 +9336,7 @@
       },
       {
         "itemNo": "2160",
-        "itemName": "Blaidd the Half",
+        "itemName": "Blaidd the Half-Wolf",
         "content": "Section 01 [216001000] howl Section 02 [216002000] Who goes there? [216002010] Kal\u00e9 send you, did he? Ever the bloody busybody. [216002020] Hmm. Maybe to him, you don't seem so strange. [216002030] The name's Blaidd. I'm looking for a man who goes by \"Darriwil\". [216002040] He fled somewhere nearby. Or so I've heard. [216002050] Come tell me if you find him before I do. [216002060] I can offer you ample reward. Section 03 [216003000] Darriwil is nothing but a traitor. [216003010] And in need of a fitting end to his tale. Section 10 [216010000] Darriwil... [216010010] Rotting in a cell is no true justice. [216010020] No, this is where it ends for you. Section 20 [216020000] ...Right. There you are. [216020010] Had to work for it, but it's done. [216020020] Don't say I'm not a man of my word. Here's your prize. Section 21 [216021000] Oh yes, I should say, [216021010] If you venture north to Raya Lucaria, and come across a venerable blacksmith who's a little on the large side... [216021020] Tell him I sent you. [216021030] And he'll be sure to treat you right. [216021040] I owe you one, I reckon. Section 22 [216022000] That's enough chit-chat for now. [216022010] It's time we parted ways. Section 30 [216030000] Ahh, long time, friend. [216030010] Blaidd, if you've forgotten. [216030020] Glad to have you in the service of mistress Ranni. [216030030] Well. Getting right to business... [216030040] I'm still in Limgrave. [216030050] The eternal city of Nokron lies somewhere at the bottom of this land. [216030060] I'm planning to go below through the well in the Mistwood. [216030070] See if I can't find the road to Nokron from there... [216030080] See if I can't find the road to Nokron from there... Section 31 [216031000] Ah. I heard about you. Good to finally meet. [216031010] Name's Blaidd, sworn sword to mistress Ranni. [216031020] Glad to have you aboard. [216031030] Well. Getting right to business... [216031040] I'm situated in Limgrave right now. [216031050] The eternal city of Nokron lies somewhere at the bottom of this land. [216031060] I'm planning to go below through the well in the Mistwood. [216031070] See if I can't find the road to Nokron from there... Section 32 [216032000] I'm going below through the well in the Mistwood. [216032010] See if I can't find the road to Nokron... [216032020] Don't keep me waiting, eh. Section 40 [216040000] Ah, good to see you. [216040010] Apologies mate, but I don't have much to report. [216040020] I can see bloody Nokron, right above me, but I'm absolutely stumped. [216040030] I've tried all the gateways, to no avail... [216040040] ...Perhaps it's time to ask Seluvis? [216040050] I recall that spiteful little rat acting like he knew something... [216040060] Let's give him a squeeze. Show him just how sharp my teeth are... Section 41 [216041000] I jest, I wouldn't go that far. [216041010] Besides, I should check on some things here. [216041020] Leave this place to me. You just do what you feel is right. [216041030] If either of us learns anything, we tell the other. Right? Section 42 [216042000] Ah. Well met. [216042010] What news? Section 43 [216043000] Leave this place to me. You just do what you feel is right. [216043010] If either of us learns anything, we tell the other. Right? [216043020] And if we reach a dead end, I suppose we go back to the source. [216043030] Seluvis rarely gives a straight answer, the first time. Section 50 [216050000] Hmm... [216050010] So Ranni's fate is kept in stasis by Starscourge Radahn... [216050020] That reminds me of something I heard. [216050030] There's a festival being held at the castle on the southern edge of the Caelid Wilds, east of Limgrave. [216050040] It's a festival of combat. And I heard...that you can fight Radahn himself. He who was once called the strongest of all the demigods... [216050050] Maybe it's just a coincidence, but I think it's worth investigating. [216050060] I'll be on my way to this festival of Radahn then... Section 51 [216051000] You're coming too, right? To Radahn's festivities... [216051010] I'll meet you at Redmane Castle in Caelid. [216051020] The way ahead is pleasingly simple. We fight, sword and fang. Section 52 [216052000] Right. I see. [216052010] Leave this place to me. You just do what you feel is right. [216052020] If either of us learns anything, we tell the other. Right? Section 53 [216053000] Hmm... [216053010] So Ranni's fate is kept in stasis by Starscourge Radahn... [216053020] And there's a festival of war being held at Redmane Castle in Caelid, [216053030] where you can fight the man himself, once the strongest of the demigods. [216053040] It's all coming together. Seems like Iji was on to something. [216053050] I'll be on my way to this festival of Radahn then... Section 60 [216060000] Ah, there you are. Took your sweet time. [216060020] The players are all made up, and waiting for the curtain... [216060030] Let's give them a show to remember, eh. [216060040] Just don't you go dying on me. For Ranni's sake, too. Section 61 [216061000] Once more into the fray together, eh. [216061010] Heh. This might even be fun. Section 62 [216062000] Into the fray together, eh. [216062010] Heh. Let's see what you're made of. Section 63 [216063000] Ah, thought I might find you here. [216063010] I must admit I was a little worried. We missed our meeting. [216063020] But it looks like you're still in one piece, eh. [216063030] You must have heard by now, right? [216063040] That Starscourge Radahn holds Ranni's fate in stasis. [216063050] But once he's out of the way, it will spring back into motion. [216063060] So now, we stand against the demigod once known as the strongest of them all. [216063070] The way ahead is pleasingly simple. We fight, sword and fang. Section 64 [216064000] Hm. Long time. [216064010] Seems we're fated to keep crossing paths. [216064020] Now, we find ourselves at a festival of combat, pitted against Radahn, once the strongest of the demigods. [216064030] The way ahead is pleasingly simple. A path forged by sword and fang. Section 65 [216065000] Mm... As a fellow combatant, allow me to introduce myself. [216065010] Blaidd, warrior. [216065020] Now, we find ourselves pitted against Radahn, once the strongest of the demigods. [216065030] The way ahead is pleasingly simple; a path forged by sword and fang. Section 66 [216066000] Hm. Nothing to do but wait. Until the festival begins. Section 80 [216080000] Ah, good. I was waiting for you. [216080010] What a sick way to fight, eh. [216080020] The glory of the clash is shared, by Radahn and you. [216080030] And hah! Did you see that, afterwards? [216080040] A falling star, right before our eyes! [216080050] I can't fathom how Radahn was holding back something of that scale. [216080060] He was a living legend, if ever I saw one. [216080070] And, the path has now been cleared. [216080080] To Nokron, where Ranni's fate will be decided. [216080090] Let's meet where the falling star bit the earth. [216080100] We'll take up our swords once more. For mistress Ranni. Section 81 [216081000] Let's meet where the falling star bit the earth. [216081010] And we'll go into battle again, side by side. [216081020] My only purpose is to fight for Ranni's fate, sword and fang. [216081030] The curtain's rising...on the final act. Section 82 [216082000] Hmph, what a sick way to fight, eh mate. [216082010] The glory of the clash is shared, by Radahn and you. [216082020] And then a falling star, right before our eyes! [216082030] I can't fathom how Radahn was holding back something of that scale. [216082040] He was a living legend, if ever I saw one. Section 83 [216083000] Well, it's time I left. [216083010] The wheel of fate has been set into motion. [216083020] If it's on the cards, I'd be glad to meet again. [216083030] You are a fine warrior. Section 84 [216084000] If it's on the cards, I'd be glad to meet again. [216084010] You are a fine warrior. Section 90 [216090000] howl "
       },
       {
@@ -9411,7 +9411,7 @@
       },
       {
         "itemNo": "2230",
-        "itemName": "Demi",
+        "itemName": "Demi-Human Boc",
         "content": "Section 01 [223001000] Oi! You there! [223001010] Could you help us out, cully? [223001020] You, yeah, you there! [223001030] Stop pretending you can't see me! [223001040] Why won't anyone look me in the eye? [223001050] I-I'm not that ugly, am I? Section 02 [223002000] Ow! [223002010] What'd you go and do that for! Section 03 [223003000] Hm? Oh, yes, I remember. [223003010] Some clod turned me into a tree. [223003020] You were just breaking the spell, weren't you. [223003030] Thank you. The name's Boc. [223003040] I was pushed out of the cave. Told not to come back, not ever. [223003050] Then I ended up as a tree. [223003060] Lucky you came along, really. Section 04 [223004000] Oh, what a shame. [223004010] When they threw me out of the cave, they took everything I owned, [223004020] and so this is all I have to express my thanks. [223004030] I hope you can forgive me. [223004040] Or, if you can afford to wait for a while, [223004050] I could sneak back into the cave, and bring back something of actual value. [223004060] Then I'd be of some real use to you, I reckon. Section 05 [223005000] Right, but I'll need a moment. [223005010] I-I'm frightened of them... So I have to gather myself. [223005020] My knees start knockin'...just thinking about that god-awful cave on the shore... Section 10 [223010000] Oh, what are you doing here? [223010010] You must leave this place at once. They'll rush in and beat you to a pulp. [223010020] You'll end up just like me. Section 11 [223011000] Wait, is that what I think it is? [223011010] You got it back for me? My sewing needle! [223011020] sob [223011030] What made you go and do a thing like that... [223011040] My mum was a seamstress... [223011050] ...and that sewing kit was all I had to remember her by. [223011060] I always wanted to be just like sweet old Mum. [223011070] Then, I suppose I-I can't just curl up and die, can I. Section 12 [223012000] Thank you. [223012010] You're very kind. [223012020] I always wanted to be a seamster, l-like my mum. [223012030] Then, I suppose I can't just curl up and die, can I. Section 13 [223013000] Oh.. [223013010] It...hurts... [223013020] Ooh... Section 20 [223020000] Good to see you! Master. [223020010] Do you remember me? Boc, the demi-human. [223020020] You helped me before, and retrieved my sewing needle. [223020030] Please, master. [223020040] Allow me to serve you, as your seamster. [223020050] I can't make nothing from scratch, but\u2026 [223020060] I'm happy to make adjustments to your garments. Section 21 [223021000] Boc the seamster, at your service, Master. [223021010] Ready to make adjustments to your garments. Section 22 [223022000] Oh, going so soon? [223022010] Please, do be safe on your journeys. Section 23 [223023000] Master, I was wondering... [223023010] Do you ever...make adjustments to your garb yourself? [223023020] I would, well, rather you let me do the job when possible, please. [223023030] I don't ask anything in return, you know, and, well... [223023040] I am your personal seamster, after all! [223023050] I am your personal seamster, after all! Section 30 [223030000] Master, my apologies. [223030010] Your wardrobe includes the garb of old demigods, [223030020] and I'm afraid I can't make adjustments to them. [223030030] My mum told me once. [223030040] That a royal seamster would do them up in a jiffy. [223030050] Just wait, master. Before long, I'll be that good, too! Section 31 [223031000] Is that a gift for my undeserving self? [223031010] Thank you kindly. But what on earth could it... [223031020] Oh! [223031030] Amazing! I've never seen a golden needle, not in all my life! [223031040] With a spectacular royal crest, to boot... [223031050] Are you certain that this is for me? [223031060] Oh, I can hardly believe it. [223031070] Have faith in me, Master! [223031080] I'll polish my craft enough that I deserve this golden gift! [223031090] I'll be the golden seamster, Boc! [223031100] Now I'll be able to sew anything, even the threads of the demigods! Section 32 [223032000] Do you think that Mum would be pleased if she knew? [223032010] That I'm as good as any royal seamster, now. [223032020] Oh, it's still not enough. [223032030] I need to learn how to sew from scratch, like her. Section 40 [223040000] Master, may I ask you something? [223040010] Would you mind if I called you lord? [223040020] I heard that you and the other Tarnished seek the throne of the Elden Lord. [223040030] Well, I know that you will be the one, [223040040] and you'd make just the manner of kind-hearted lord that I'd wish for. [223040050] So, please, if you would. [223040060] Allow me to call you lord. Section 41 [223041000] You don't say! Thank you, thank you! [223041010] M'lord, m'lord, m'lord! [223041020] Please, become Elden Lord. [223041030] And please, let I, Boc the seamster, remain at your side. Section 42 [223042000] No, and why would you... [223042010] Forgive me, for overstepping my bounds. I didn't mean it. Section 43 [223043000] Boc the seamster, at your service, m'lord. [223043010] Ready to make adjustments to your garments. Section 44 [223044000] Going already, m'lord? [223044010] Please, do be safe on your journeys. Section 45 [223045000] Master, did you see it? [223045010] Th-the Erdtree? [223045020] I, oh, I don't really have the words for this... [223045030] But I was so...so dazzled, I felt something stir, in my breast. [223045040] The Erdtree is waiting for you, master. [223045050] I know it, I do. I feel it in my bones. Section 46 [223046000] M'lord, did you see it? [223046010] Th-the Erdtree? [223046020] I, oh, I don't really have the words for this... [223046030] But I was so...so dazzled, I felt something stir, in my breast. [223046040] The Erdtree is waiting for you, m'lord. [223046050] I know it, I do. I feel it in my bones. [223046060] O please, take the throne of Elden Lord. Section 50 [223050000] M'lord... Have you ever wished you might be born again? [223050010] Well, they say that Rennala of Raya Lucaria [223050020] has the power to help people be reborn. [223050030] Oh? Me? Reborn? [223050040] Oh, look at me. When you're this ugly... [223050050] well, being reborn? It would hardly make a difference, I'm afraid. Section 51 [223051000] M'lord, what's this? [223051010] Oh! Oh! [223051020] It can't be\u2026 For my rebirth? [223051030] But these are precious, are you certain that it's for me? [223051040] Oh... [223051050] M'lord, how did you know? [223051060] It was my only wish, that I might honour you with a decent appearance. Section 52 [223052000] M'lord, it shouldn't take me long. [223052010] I'm off to see Rennala of Raya Lucaria. [223052020] I'll be reborn, fresh and new. Section 53 [223053000] M'lord. [223053010] In all honesty, what do you think of me? [223053020] Am I fit to serve a lord such as you, in all my ugliness? [223053030] Must I be reborn, no matter what ill fate awaits me? [223053040] Oh, I'm such a fool. [223053050] I don't even have answers to the simplest of questions. Section 54 [223054000] Master... Have you ever wished you might be born again? Section 55 [223055000] Master, what's this? [223055050] Master, how did you know? Section 56 [223056000] Master, it shouldn't take me long. Section 57 [223057000] Master. [223057020] Am I fit to serve you, master, in all my ugliness? Section 60 [223060000] Did I just hear my mum speaking? [223060010] Thank you very much. [223060020] Mum was always the only one who said I was beautiful. [223060030] And now, my dear lord let me hear her voice. [223060040] Please, if I may dream, just once... [223060050] Do you feel the same way my mum did, m'lord? [223060060] Do you think I'm beautiful, despite these looks? Section 61 [223061000] sob [223061010] M'lord, my dear lord... [223061020] I, Boc the seamster, am forever in your service. [223061030] May the throne of Elden Lord be yours. Section 62 [223062000] No, why on earth would you... [223062010] It was silly of me to ask. Please, forget that I did. [223062020] But I beg, don't renounce me for my appearance. [223062030] One day, I'll look every bit the servant. Section 65 [223065000] Did I just hear my mum speaking? [223065010] Thank you very much. [223065020] Mum was always the only one who said I was beautiful. [223065030] And now, my kind master let me hear her voice. [223065040] Please, if I may dream, just once... [223065050] Do you feel the same way my mum did, master? [223065060] Do you think I'm beautiful, despite these looks? Section 66 [223066000] sob [223066010] Master, kind master... [223066020] I, Boc the seamster, am forever in your service. Section 67 [223067000] No, why on earth would you... [223067010] It was silly of me to ask. Please, forget that I did. [223067020] But I beg, don't renounce me for my appearance. [223067030] One day, I'll look every bit the servant. "
       },
       {
@@ -9451,7 +9451,7 @@
       },
       {
         "itemNo": "2260",
-        "itemName": "Jar",
+        "itemName": "Jar-Bairn",
         "content": "Section 01 [226001000] Hallo coz, what are you doing here? [226001001] Hallo coz, what are you doing here? [226001010] I didn't think anyone knew about this place, 'cept us jars. [226001020] Oh! Are you going to be the new Potentate? Section 02 [226002000] Gosh, truly? That's wonderful news! [226002010] It's not easy being Potentate, though. [226002020] I know, show me your hands. [226002030] It's just a little test, coz, to see if you've got the right stuff. [226002031] It's just a little test, coz, to see if you've got the right stuff. Section 03 [226003000] Hmm. [226003010] Your skin isn't so smooth, is it... [226003020] You need slick, slidey hands to be Potentate, you know. [226003030] I'm sorry coz, but I don't think you've got what it takes... [226003031] I'm sorry coz, but I don't think you've got what it takes... [226003040] What a shame... Section 04 [226004000] Oh, hallo again, coz. [226004001] Oh, hallo again, coz. [226004010] I'm happy you came back. [226004020] I have good tidings for you, coz. [226004021] I have good tidings for you, coz. [226004030] I have good tidings for you, coz. [226004040] Have you noticed the rare flowers growing in this village? [226004041] I asked the villagers if you could pick some of them. [226004050] I asked the villagers if you could pick some of them. [226004051] I asked the villagers if you could pick some of them. [226004060] And they said you'd be very welcome! [226004070] The flowers we have now are nice, but it's a bit boring having the same ones all the time. [226004080] I think everyone would be glad of a change, actually... Section 05 [226005000] You know the huge vase, at the centre of our village? [226005010] If you plant lovely flower seeds inside the big vase, coz... [226005011] If you plant lovely flower seeds inside the big vase, coz... [226005020] Those flowers will bloom all through the whole village! Section 06 [226006000] Oh, well, I'm sorry. Section 07 [226007000] Coz. You'll be our Potentate after all, then? [226007001] Coz. You'll be our Potentate after all, then? [226007010] Coz. You'll be our Potentate after all, then? Section 08 [226008000] Don't look so glum, coz. [226008001] Don't look so glum, coz. [226008010] Don't look so glum, coz. [226008020] We can still chat, Potentate or not. [226008030] Come back and visit me, when you can. Section 09 [226009000] Go on, coz, you really should pick some of our flowers. [226009001] Go on, coz, you really should pick some of our flowers. [226009010] Go on, coz, you really should pick some of our flowers. [226009020] Who knows, they might be of some use. Section 10 [226010000] Oh, did you come to visit me again, coz? [226010001] Oh, did you come to visit me again, coz? [226010010] I'm happy you came back. [226010020] Can you tell me about the outside? [226010030] Oh first though, if you have some nice flower seeds, [226010040] can you put them in the big vase in the middle of the village? [226010050] I'm sure, when lots of them are in bloom, [226010060] everyone will be so happy. Section 11 [226011000] Oh, hallo again, coz. [226011001] Oh, hallo again, coz. [226011010] I'm happy you came back. [226011020] Can you tell me about the outside? [226011030] Oh, and you put seeds in the big vase, didn't you? [226011040] Thanks, coz. [226011041] Thanks, coz. [226011050] I'm so excited to see what kind of flowers will blossom... Section 20 [226020000] Oh, hallo again, coz. [226020001] Oh, hallo again, coz. [226020010] You put seeds in the big vase, didn't you? [226020020] Such pretty flowers are blooming! Everyone's so happy. [226020030] I've never seen anything like it! I'd love to see more flowers from the outside, someday. Loads more! Section 21 [226021000] Oh, hallo again, coz. [226021001] Oh, hallo again, coz. [226021010] You put seeds in the big vase, didn't you? [226021020] But...I don't really like those flowers. [226021030] I'm sorry coz, I know you brought the seeds from all that way away... [226021031] I'm sorry coz, I know you brought the seeds from all that way away... [226021040] But I'm a jar, and you're not. I s'pose we just see things differently. [226021041] But I'm a jar, and you're not. I s'pose we just see things differently. Section 30 [226030000] Ah, hallo again. [226030010] Say, coz. Have you met Uncle Alexander? [226030011] Say, coz. Have you met Uncle Alexander? [226030020] He used to live here with us, but then he left, to be a champion. [226030030] I asked to go with him, but he said \"The path of champions must be trod alone\". [226030040] So heroic, right? I miss him though. [226030050] If you see him, you should ask him to teach you how to fight, coz. [226030051] If you see him, you should ask him to teach you how to fight, coz. [226030060] He's big and tough and strong! Section 31 [226031000] Uncle Alexander said he won't be back again. [226031010] \"My home is of the past. And the past, as they say, is a different country.\" [226031020] I suppose that's part of being a warrior, isn't it. [226031030] So...please don't tell anyone, coz, but... [226031031] So...please don't tell anyone, coz, but... [226031040] I'm actually a warrior jar as well! One day, I'll be just like Uncle Alexander. [226031050] And I'll have to leave the village to become a champion. Section 32 [226032000] Uncle Alexander won't come back here again. [226032010] \"My home is of the past. And the past, as they say, is a different country.\" [226032020] I suppose that's part of being a warrior, isn't it. Section 40 [226040000] Ah, hallo again. [226040010] Do you know what a poacher is, coz? [226040011] Do you know what a poacher is, coz? [226040020] They hunt us, smash us, and then take us away. [226040030] This village is kept secret, so I think we're safe here. [226040040] But you should be careful if you ever meet one of them, coz. [226040041] But you should be careful if you ever meet one of them, coz. [226040050] I hope uncle Alexander beats them all up, first... Section 41 [226041000] Those awful poachers. I hope uncle Alexander beats them all up. Section 50 [226050000] Oh, hallo again, coz. [226050001] Oh, hallo again, coz. [226050010] Have you heard? A new Potentate's come to the village! [226050020] I think he said his name was Diallos. [226050030] He seems a little down in the dumps, but his hands! As smooth as silk! Section 51 [226051000] I don't know, I'm a little disappointed actually. [226051010] Even though good sir Diallos has a wonderful suit of armour... [226051020] He says he isn't a warrior. [226051030] And since he's a coward, he won't be fighting anymore. [226051040] His smooth and silky hands feel nice when he pats us. [226051050] But I wish we had a potentate big and strong like you. [226051051] But I wish we had a potentate big and strong like you. Section 52 [226052000] Diallos' smooth and silky hands feel nice when he pats us... [226052010] But I wish we had a potentate big and strong like you. [226052011] But I wish we had a potentate big and strong like you. [226052020] But I wish we had a potentate big and strong like you. Section 60 [226060000] O-oh! Coz! [226060001] O-oh! Coz! [226060010] I'm glad you came. [226060020] But we're fine now. Diallos fought the poacher. [226060030] Though quite a lot of us got broken... [226060040] ... [226060050] I won't cry though... I'm a warrior jar. A warrior. Section 61 [226061000] \"The tale of House Hoslow is told in blood.\" [226061010] That's the kind of warrior I want to be one day, coz. [226061011] That's the kind of warrior I want to be one day, coz. [226061020] Even if I'm scared, I'll still fight to protect everyone. Section 62 [226062000] \"The tale of House Hoslow is told in blood.\" [226062010] That's the kind of warrior I'm going to be. [226062020] One who protects everybody. Section 70 [226070000] Thanks for coming back, coz. [226070001] Thanks for coming back, coz. [226070010] I've been thinking. It's time for me to set out on a journey. [226070020] As a warrior jar, upon the path of champions. Section 71 [226071000] Wow, coz, are these... [226071001] Wow, coz, are these... [226071010] Insides? [226071020] From Uncle Alexander? [226071030] ... [226071040] Thank you, coz. [226071041] Thank you, coz. [226071050] I'm a warrior jar, so I need to be strong. [226071060] I can really have them, right? [226071070] I understand. I'll get strong. [226071080] Strong enough I deserve to have Uncle's insides. Section 72 [226072000] I'm about to go on a journey. [226072010] As a warrior jar, in search of glory. Section 73 [226073000] Oh, hallo again, coz. [226073001] Oh, hallo again, coz. [226073010] Oh, hallo again, coz. [226073020] No, I haven't changed my mind. [226073030] I'll begin my journey once I'm ready to go. [226073040] As a warrior jar, in search of glory. Section 74 [226074000] I'll begin my journey once I'm ready to go. [226074010] As a warrior jar, in search of glory. Section 80 [226080000] I don't think I'll see you again, when I set out. [226080010] Warriors are supposed to work alone. [226080020] Goodbye, coz. [226080021] Goodbye, coz. [226080030] And thanks for everything. [226080040] I'll never forget you, coz. [226080041] I'll never forget you, coz. Section 81 [226081000] I'll never forget you, coz. [226081001] I'll never forget you, coz. [226081010] I'll never forget you, coz. Section 82 [226082000] ... Section 83 [226083000] Coz... [226083001] Coz... [226083010] Coz... [226083020] Tell me a story... About the big, wide world... [226083030] ... Section 84 [226084000] Uncle Alexander, look! [226084010] It's me! I'm a warrior jar too! [226084020] ... Section 85 [226085000] Stop, no... [226085010] Please, no, don't break us... [226085020] ... Section 86 [226086000] They're wonderful, Diallos. [226086010] So smooth, and silky... [226086020] ... Section 87 [226087000] The tale of House Hoslow... [226087010] ...is told in blood... [226087020] ... "
       },
       {
@@ -9631,7 +9631,7 @@
       },
       {
         "itemNo": "3120",
-        "itemName": "Witch",
+        "itemName": "Witch-Hunter Jerren",
         "content": "Section 01 [312001000] Oh, Tarnished, are you? [312001010] How did you slip inside, with the gate closed? [312001020] Hmph. No matter. [312001030] If you can fell one of them, you're a champion, in my book. [312001040] I am Jerren. Foolish old warrior, and witness. [312001050] Incidentally, do you like a good festival, from time to time? [312001060] Well, it's true, this fortress houses only the vanquished. [312001070] But when the stars align, we celebrate. [312001080] A war festival honoring the last battle and death of General Radahn, [312001090] the mightiest demigod of the Shattering, and bearer of a Great Rune. Section 02 [312002000] Well, good. [312002010] As you should. The festival affords glory to warriors. [312002020] Then all you need is a little patience. [312002030] When the stars align, the festival will be declared. Section 03 [312003000] Well, you're not much fun, are you, chum? [312003010] No matter. One day you will see. [312003020] That true warriors bask in glory at the festival. Section 04 [312004000] Have patience, mm. [312004010] When the stars align, the festival will be declared. Section 05 [312005000] Go on, now. [312005010] This old geezer hasn't any use for you just yet. Section 06 [312006000] One day you will see, chum. [312006010] That true warriors bask in glory at the festival. Section 07 [312007000] Go on, now. [312007010] This old geezer hasn't any use for you just yet. Section 20 [312020000] Well, I haven't heard that name in an age. [312020010] Then you must serve Princess Ranni? [312020020] The next time you speak to Iji, tell him this: [312020030] The festival of Radahn will surely set Ranni's fate back into motion. [312020040] By the by\u2026 Is that old fool still hammering out weapons? [312020050] His enormous frame, cramped in that little place... [312020060] Bit of a haughty sort. Strange fella, when I knew him. [312020070] And funny thing, his swords were all blunt as stone. [312020080] But not one of them decayed when faced with the scarlet rot... Section 30 [312030000] Champions, welcome! [312030010] The stars have aligned! The festival is nigh! [312030020] General Radahn, mightiest demigod of the Shattering, awaits you! [312030030] Champions, prepare for battle! Defeat the General, claim glory, and grab that Great Rune! [312030040] A celebration of war! The Radahn Festival! Section 31 [312031000] Are you good and prepared, young chum? [312031010] The festival begins! Section 34 [312034000] But now, we must make merry. [312034010] O gathering of champions, the revels begin! [312034020] The celebration of war! The Radahn Festival! Section 35 [312035000] You will find the field of battle past the church ahead, upon the shore under the fort. [312035010] General Radahn is there, even now. [312035020] Divested of his wits, devouring corpses\u2026 [312035030] And howling at the sky... Section 36 [312036000] I see... [312036010] When you are ready, come to me again. Section 40 [312040000] At last, the war festival has ended. [312040010] Brave champion, you have our gratitude. [312040020] The celebration was spectacular. General Radahn is surely pleased. [312040030] Festering with rot, and crippled by madness, all he wanted was an honourable death. Section 41 [312041000] Finally, my work is done. [312041010] I am no longer bound to this fortress. [312041020] I have a task in mind. [312041030] Old business you could say. You wouldn't understand. [312041040] May we meet again, if the fates deign it. Brave champion. Section 42 [312042000] It's time I went on my way. [312042010] May we meet again, if the fates deign it. Brave champion. Section 50 [312050000] Ah, well met. [312050010] I hardly expected to see the champion of the festival here of all places. [312050020] You didn't...know Sellen, did you? [312050030] Well, whatever the case, she's dead now. [312050040] Just put it behind you. [312050050] She was known as the Graven Witch. [312050060] Obsessed by the primeval current, countless sorcerers fell to her hand. [312050070] The most dangerous mage in the entire history of Raya Lucaria's Academy. Section 51 [312051000] Oh, a Tarnished, are you? [312051010] You didn't...know Sellen, did you? Section 52 [312052000] It is strange, though... [312052010] The woman, she was like a husk, her soul already fled. [312052020] I suspect Sellen lives on, elsewhere. [312052030] I'm sure she'll turn up eventually, in another body. [312052040] A sickening thought, but one that won't stop gnawing at me. Section 53 [312053000] I suspect Sellen lives on, elsewhere. [312053010] I'm sure she'll turn up eventually, in another body. [312053020] A sickening thought, but one that won't stop gnawing at me. Section 60 [312060000] My thanks, for the aid given. [312060010] I heard from Iji that Lady Ranni might have found herself a champion. [312060020] But I didn't know he was talking about you. [312060030] You've helped me fulfil an old promise. [312060040] This is the least I can do for you. Please, take it. Section 61 [312061000] My thanks, for the aid given. [312061010] Always a pleasure to witness the festival champ put on a display. [312061020] You've helped me fulfil an old promise. [312061030] This is the least I can do for you. Please, take it. Section 62 [312062000] My thanks, Tarnished, for the aid given. [312062010] You've helped me fulfil an old promise. [312062020] This is the least I can do for you. Please, take it. Section 63 [312063000] Well, I must be leaving now. [312063010] Brave warrior, if the fates deign it... [312063020] No, we shall indeed meet again, at the next glorious tourney. Section 64 [312064000] Well, I must be leaving now. [312064010] If the fates deign it, may we meet again, Tarnished. "
       },
       {
@@ -10261,12 +10261,12 @@
       },
       {
         "itemNo": "402210",
-        "itemName": "Menu",
+        "itemName": "Menu: Additional Healing Flasks",
         "content": "You can increase the number of flasks available. Locate Flask Shards in order to increase the number of flasks. "
       },
       {
         "itemNo": "402220",
-        "itemName": "Menu",
+        "itemName": "Menu: Increasing Healing Amount",
         "content": "You can increase the healing amount of each flask. Locate \"Immortal Ashes\" in order to increase the healing amount. "
       },
       {
@@ -10291,7 +10291,7 @@
       },
       {
         "itemNo": "402310",
-        "itemName": "Menu",
+        "itemName": "Menu: Weapon Upgrades",
         "content": "Weapons and shields can be upgraded by using upgrade materials. Higher ranked upgrade materials are required for highler level weapons. "
       },
       {
@@ -10306,7 +10306,7 @@
       },
       {
         "itemNo": "402340",
-        "itemName": "Menu",
+        "itemName": "Menu: Dragon Communion Shop",
         "content": "You can learn magic from the Dragon Communion. Memorize these spells by offering Dragon Communion Seeds. "
       },
       {
@@ -10829,7 +10829,7 @@
       },
       {
         "itemNo": "7110000",
-        "itemName": "Serpent",
+        "itemName": "Serpent-God's Curved Sword",
         "content": "Curved sword fashioned in the image of an ancient serpent deity and tool of a forgotten religion practiced on Mt. Gelmir. Formerly used to offer up sacrifices, this sword restores HP upon slaying an enemy. "
       },
       {
@@ -11034,7 +11034,7 @@
       },
       {
         "itemNo": "11110000",
-        "itemName": "Scepter of the All",
+        "itemName": "Scepter of the All-Knowing",
         "content": "Scepter in the form of a hand grasping a pearl. Signature weapon of Sir Gideon Ofnir, the All-Knowing. The pearl stands for the world, the heavens, and an eye, representing the many forms of knowledge, never fully attainable. Even knowing that, the All-Knowing's hand grasps for it. "
       },
       {
@@ -11329,7 +11329,7 @@
       },
       {
         "itemNo": "16060000",
-        "itemName": "Celebrant's Rib",
+        "itemName": "Celebrant's Rib-Rake",
         "content": "Rake decorated with many-colored fabrics. Ceremonial tool used by dancers during the festivities of Dominula, Windmill Village. Crafted from human bone. Grants trace amounts of runes upon landing attacks. "
       },
       {
@@ -11349,7 +11349,7 @@
       },
       {
         "itemNo": "16110000",
-        "itemName": "Cross",
+        "itemName": "Cross-Naginata",
         "content": "Weapon consisting of a three-pronged blade affixed to a long pole. The long central blade closely resembles a katana. A weapon of the Land of Reeds, known for its ability to be wielded as a spear while still being capable of performing slashing attacks. "
       },
       {
@@ -11389,7 +11389,7 @@
       },
       {
         "itemNo": "17030000",
-        "itemName": "Serpent",
+        "itemName": "Serpent-Hunter",
         "content": "Weapon that serves as both greatsword and spear. Thought to have been used to hunt an immortal great serpent in the distant past, it manifests a long blade of light when facing such a creature. When their master's heroic aspirations degenerated into mere greed, his men searched for a weapon with which they might halt their lord. "
       },
       {
@@ -11679,7 +11679,7 @@
       },
       {
         "itemNo": "23110000",
-        "itemName": "Giant",
+        "itemName": "Giant-Crusher",
         "content": "A hammer made from a boulder, used in the War against the Giants. One of the heftiest weapons in the entire Lands Between. After the giants were quelled, and man turned against man in violence, this weapon was all but forgotten. Man has grown feeble in comparison to his forebears. "
       },
       {
@@ -11709,7 +11709,7 @@
       },
       {
         "itemNo": "24020000",
-        "itemName": "Steel",
+        "itemName": "Steel-Wire Torch",
         "content": "Torch wound with metal wire. The flame can illuminate dark locales, or be used to attack enemies. Heavier than a normal torch, but the heated filament boosts fire damage dealt. "
       },
       {
@@ -11724,7 +11724,7 @@
       },
       {
         "itemNo": "24060000",
-        "itemName": "Beast",
+        "itemName": "Beast-Repellent Torch",
         "content": "A torch which burns oil infused with a special incense. The aroma pacifies wild beasts. Torches such as these were used to keep unwelcome beasts away from treasure troves hidden in caves. "
       },
       {
@@ -11744,7 +11744,7 @@
       },
       {
         "itemNo": "30020000",
-        "itemName": "Man",
+        "itemName": "Man-Serpent's Shield",
         "content": "Small copper dome-shaped roundshield carried by the man-serpents of Mt. Gelmir. Said to have been tempered in lava, it boasts great resistance to fire. "
       },
       {
@@ -11759,7 +11759,7 @@
       },
       {
         "itemNo": "30060000",
-        "itemName": "Beastman's Jar",
+        "itemName": "Beastman's Jar-Shield",
         "content": "Shield fashioned from a tall broken jar carried by the beastmen of Farum Azula. There is a particular knack to wielding it. The beastmen have always fired earthenware jars for the express purpose of making shields. Such are their ways, strange though they are. "
       },
       {
@@ -11779,7 +11779,7 @@
       },
       {
         "itemNo": "30100000",
-        "itemName": "Blue",
+        "itemName": "Blue-White Wooden Shield",
         "content": "Small wooden roundshield that has been reinforced with metal. It is light and easy to handle, but cannot offer the damage negation of a true metal shield. The design is said to represent the stars of the night sky, portending fate. "
       },
       {
@@ -11869,7 +11869,7 @@
       },
       {
         "itemNo": "31100000",
-        "itemName": "Blue",
+        "itemName": "Blue-Gold Kite Shield",
         "content": "A standard medium-sized metal shield. Highly reputed for its solid build and reliability. The design represents the Erdtree foregrounded against a blue sky. "
       },
       {
@@ -12009,7 +12009,7 @@
       },
       {
         "itemNo": "32150000",
-        "itemName": "One",
+        "itemName": "One-Eyed Shield",
         "content": "Tricksome shield made from white stone depicting a malformed one-eyed god. The barrel of a firearm pokes through the open mouth. Once worshipped by the giants, this evil deity is believed to have been slain by Queen Marika. "
       },
       {
@@ -12029,7 +12029,7 @@
       },
       {
         "itemNo": "32200000",
-        "itemName": "Crossed",
+        "itemName": "Crossed-Tree Towershield",
         "content": "An iron greatshield large enough to cover the entire body. Emblazoned with an old, interleaving tree. Greatshields boast high damage negation and guard capacity, making enemy attacks easy to repel. "
       },
       {
@@ -12099,7 +12099,7 @@
       },
       {
         "itemNo": "33060000",
-        "itemName": "Demi",
+        "itemName": "Demi-Human Queen's Staff",
         "content": "Glintstone staff styled as a scepter. A gift once given to the demi-humans to foster peace, it can be wielded even by those of low intelligence. Sneered at by fools in the academy. "
       },
       {
@@ -12334,7 +12334,7 @@
       },
       {
         "itemNo": "43110000",
-        "itemName": "Crepus's Black",
+        "itemName": "Crepus's Black-Key Crossbow",
         "content": "Black crossbow featuring a long stock. Used for sniping, it has a very long range. Weapon of Crepus, who served the Two Fingers from the shadows of the Roundtable as the head confessor. "
       },
       {
@@ -12564,7 +12564,7 @@
       },
       {
         "itemNo": "52030000",
-        "itemName": "Black",
+        "itemName": "Black-Key Bolt",
         "content": "Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftsmanship. The intricate spiral tip bores deep, injecting scarlet rot far into the flesh of its target. "
       },
       {

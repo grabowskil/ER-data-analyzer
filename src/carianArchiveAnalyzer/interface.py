@@ -44,7 +44,7 @@ def findAllCategories(target="../../docs/CarianArchive.html", transformedCarianA
 def categoryItemSplitter(categoryItem="['Bone Ballista Bolt [53030000]']"):
     categoryItemStr = categoryItem[0]
     categoryItemNo = useRegex(categoryItemStr, '\\[.*\\]').translate({ord(ch):'' for ch in '[]'})
-    categoryItemName = useRegex(categoryItemStr, "[a-zA-Z ']+[a-zA-Z]")
+    categoryItemName = useRegex(categoryItemStr, "[a-zA-Z ':-]+[a-zA-Z]")
     
     return categoryItemNo, categoryItemName
 
