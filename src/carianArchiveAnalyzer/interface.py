@@ -57,7 +57,15 @@ def contentFinder(item):
                 text = text.strip()
                 text = text.strip('\n')
                 text = text.replace("\n        ", " ")
-                foundContent = foundContent + text
+
+                length = len(foundContent)
+                if length > 0:
+                    if foundContent[length - 1] != " ":
+                        foundContent = foundContent + " " + text
+                    else:
+                        foundContent = foundContent + text
+                else:
+                    foundContent = foundContent + text
             else:
                 break
 
