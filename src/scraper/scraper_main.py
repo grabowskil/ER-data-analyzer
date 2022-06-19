@@ -2,7 +2,7 @@ import csv
 from finder import findAllLinks
 from scraper import scraper
 
-def main():
+def scraperMain():
     relItemsTable = [
         "https://eldenring.wiki.fextralife.com/Daggers",
         "https://eldenring.wiki.fextralife.com/Straight+Swords",
@@ -72,4 +72,4 @@ def main():
 
     scraper(linkList, "../docs/descriptions.csv")
 
-main()
+scraperMain()
