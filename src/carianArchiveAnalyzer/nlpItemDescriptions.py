@@ -13,7 +13,7 @@ from nltk.corpus import wordnet as wn
 # [ ] PlaceName.fmg
 # [x] ProtectorName.fmg
 # [ ] TalkMsg.fmg
-# [ ] TutorialTitle.fmg
+# [x] TutorialTitle.fmg
 # [ ] WeaponEffect.fmg
 # [ ] WeaponInfo.fmg
 # [x] WeaponName.fmg
@@ -25,6 +25,7 @@ def nlpItemDescriptionsMain():
         "GemName.fmg",
         "GoodsName.fmg",
         "ProtectorName.fmg",
+        "TutorialTitle.fmg"
         "WeaponName.fmg"
         ]
 
