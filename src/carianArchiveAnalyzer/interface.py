@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import re
 import json
 
+from pyparsing import alphanums
+
 def transformCarianArchive(
         target="../../docs/CarianArchive.html",
         transformedCarianArchiveFile="../../docs/carianArchiveTrans.json"
@@ -31,8 +33,6 @@ def findAllCategories(target="../../docs/CarianArchive.html", transformedCarianA
                 'content' : content
             })
 
-            
-        
         foundCategories.append({
             'title' : categoryTitle,
             'items' : foundItems
@@ -45,7 +45,7 @@ def categoryItemSplitter(categoryItem="['Bone Ballista Bolt [53030000]']"):
     categoryItemStr = categoryItem[0]
     categoryItemNo = useRegex(categoryItemStr, '\\[.*\\]').translate({ord(ch):'' for ch in '[]'})
     categoryItemName = useRegex(categoryItemStr, "[a-zA-Z ':-]+[a-zA-Z]")
-    
+
     return categoryItemNo, categoryItemName
 
 def contentFinder(item):

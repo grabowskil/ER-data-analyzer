@@ -19,18 +19,6 @@ from nltk.corpus import wordnet as wn
 # [x] WeaponName.fmg
 
 def main():
-    with open("../../docs/carianArchiveTrans.json") as file:
-        carianArchive = json.load(file)
-    
-    comprehensibleText = getComprehensibleText(carianArchive)
-    taggedItems = tagComprehensibleText(comprehensibleText)
-    jsonOut = addToJson(carianArchive, taggedItems)
-
-    with open("../../docs/carianArchiveTrans.json", 'w') as outfile:
-        json.dump(jsonOut, outfile, indent=2)
-
-
-def getComprehensibleText(carianArchive={"title": "na.fmg","items":[]}):
     relCategories = [
         "AccessoryName.fmg",
         "ArtsName.fmg",
@@ -40,6 +28,18 @@ def getComprehensibleText(carianArchive={"title": "na.fmg","items":[]}):
         "WeaponName.fmg"
         ]
 
+    with open("../../docs/carianArchiveTrans.json") as file:
+        carianArchive = json.load(file)
+    
+    comprehensibleText = getComprehensibleText(carianArchive, relCategories)
+    taggedItems = tagComprehensibleText(comprehensibleText)
+    jsonOut = addToJson(carianArchive, taggedItems, relCategories)
+
+    with open("../../docs/carianArchiveTrans.json", 'w') as outfile:
+        json.dump(jsonOut, outfile, indent=2)
+
+
+def getComprehensibleText(carianArchive={"title": "na.fmg","items":[]}, relCategories=["AccesoryName.fmg"]):
     comprehensibleText = []
     for category in carianArchive:
         if category['title'] in relCategories:
@@ -108,28 +108,33 @@ def get_wordnet_pos(treebank_tag):
     else:
         return ''
 
-def addToJson(json, taggedItems):
+def addToJson(json, taggedItems, relCategories):
     newJson = []
     for category in json:
-        newItems = []
-        for item in category['items']:
-            newItem = []
-            for taggedItem in taggedItems:
-                if item['itemName'] == taggedItem[0]:
-                    newItem = [{
-                        'itemNo' : item['itemNo'],
-                        'itemName' : item['itemName'],
-                        'content' : item['content'],
-                        'contentTagged' : taggedItem[1]
-                    }]
-            if newItem == []:
-                newItem = category['items']
-            newItems.append(newItem)
-                
-        newJson.append({
-            'title' : category['title'],
-            'items' : newItems
-        })
+        if category['title'] in relCategories:
+            newItems = []
+            for item in category['items']:
+                newItem = []
+                for taggedItem in taggedItems:
+                    if item['itemName'] == taggedItem[0]:
+                        newItem = [{
+                            'itemNo' : item['itemNo'],
+                            'itemName' : item['itemName'],
+                            'content' : item['content'],
+                            'contentTagged' : taggedItem[1]
+                        }]
+                if newItem == []:
+                    newItem = category['items']
+                newItems.append(newItem)
+            newJson.append({
+                'title' : category['title'],
+                'items' : newItems
+            })
+        else:
+            newJson.append({
+                'title' : category['title'],
+                'items' : category['items']
+            })
 
     return newJson
 
