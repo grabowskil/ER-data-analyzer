@@ -4,7 +4,7 @@ import json
 
 from pyparsing import alphanums
 
-def transformCarianArchive(
+def interfaceMain(
         target="../../docs/CarianArchive.html",
         transformedCarianArchiveFile="../../docs/carianArchiveTrans.json"
     ):
@@ -77,6 +77,3 @@ def useRegex(input="Bone Ballista Bolt [53030000]", pattern='\\[.*\\]'):
         return group.group(0)
     else:
         return "[na]"
-
-
-transformCarianArchive()

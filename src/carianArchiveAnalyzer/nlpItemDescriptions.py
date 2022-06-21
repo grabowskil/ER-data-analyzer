@@ -12,13 +12,13 @@ from nltk.corpus import wordnet as wn
 # [ ] NpcName.fmg
 # [ ] PlaceName.fmg
 # [x] ProtectorName.fmg
-# [?] TalkMsg.fmg
+# [ ] TalkMsg.fmg
 # [ ] TutorialTitle.fmg
 # [ ] WeaponEffect.fmg
 # [ ] WeaponInfo.fmg
 # [x] WeaponName.fmg
 
-def main():
+def nlpItemDescriptionsMain():
     relCategories = [
         "AccessoryName.fmg",
         "ArtsName.fmg",
@@ -137,5 +137,3 @@ def addToJson(json, taggedItems, relCategories):
             })
 
     return newJson
-
-main()
