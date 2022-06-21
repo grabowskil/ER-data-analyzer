@@ -25,7 +25,7 @@ def nlpItemDescriptionsMain():
         "GemName.fmg",
         "GoodsName.fmg",
         "ProtectorName.fmg",
-        "TutorialTitle.fmg"
+        "TutorialTitle.fmg",
         "WeaponName.fmg"
         ]
 
