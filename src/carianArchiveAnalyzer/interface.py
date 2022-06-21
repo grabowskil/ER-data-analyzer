@@ -76,7 +76,7 @@ def useRegex(input="Bone Ballista Bolt [53030000]", pattern='\\[.*\\]'):
     if group is not None:
         return group.group(0)
     else:
-        return "[NaN]"
+        return "[na]"
 
 
 transformCarianArchive()

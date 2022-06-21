@@ -1,7 +1,7 @@
 import json
-from wordcloud import WordCloud
-from nltk import word_tokenize, WordNetLemmatizer
-import matplotlib.pyplot as plt
+from nltk import sent_tokenize, word_tokenize, pos_tag, WordNetLemmatizer
+from nltk.corpus import stopwords as sw
+from nltk.corpus import wordnet as wn
 
 # Categories:
 # [x] AccessoryName.fmg
@@ -19,23 +19,18 @@ import matplotlib.pyplot as plt
 # [x] WeaponName.fmg
 
 def main():
-    getComprehensibleText("../../docs/carianArchiveTrans.json")
-    
-    with open("../../docs/comprehensibleText.txt") as file:
-        comprehensibleText = file.read()
-    
-    lemComprehensibleText(comprehensibleText)
-
-    with open("../../docs/comprehensibleTextLemmed.txt") as file:
-        lemmedText = file.read()
-
-    wordCloudShow(lemmedText)
-
-
-def getComprehensibleText(target="../../docs/carianArchiveTrans.json"):
-    with open(target) as file:
+    with open("../../docs/carianArchiveTrans.json") as file:
         carianArchive = json.load(file)
+    
+    comprehensibleText = getComprehensibleText(carianArchive)
+    taggedItems = tagComprehensibleText(comprehensibleText)
+    jsonOut = addToJson(carianArchive, taggedItems)
 
+    with open("../../docs/carianArchiveTrans.json", 'w') as outfile:
+        json.dump(jsonOut, outfile, indent=2)
+
+
+def getComprehensibleText(carianArchive={"title": "na.fmg","items":[]}):
     relCategories = [
         "AccessoryName.fmg",
         "ArtsName.fmg",
@@ -44,46 +39,93 @@ def getComprehensibleText(target="../../docs/carianArchiveTrans.json"):
         "ProtectorName.fmg",
         "WeaponName.fmg"
         ]
-    
-    comprehensibleText = ""
+
+    comprehensibleText = []
     for category in carianArchive:
         if category['title'] in relCategories:
             categoryItems = category['items']
             for item in categoryItems:
-                comprehensibleText = comprehensibleText + item['content'] + "\n"
-
-    saveToFile(comprehensibleText, "../../docs/comprehensibleText.txt")
+                comprehensibleText.append([item['itemName'], item['content']])
+    
     return comprehensibleText
 
 
-def lemComprehensibleText(comprehensibleText="NaN", target="../../docs/comprehensibleTextLemmed.txt"):
+def tagComprehensibleText(comprehensibleText=[['Lightning Greatbolt', 'Greatbolt tipped with a clump of Gravel Stone shards. Deals powerful lightning damage. ']]):
     lemma = WordNetLemmatizer()
-    words = word_tokenize(comprehensibleText)
+    stopwords = sw.words('english')
 
-    wordsLemmad = []
-    for word in words:
-        wordsLemmad.append(lemma.lemmatize(word))
+    taggedItems = []
+    for item in comprehensibleText:
+        sentences = sent_tokenize(item[1])
 
-    lemmadText = ""
-    for wordLemmad in wordsLemmad:
-        lemmadText = lemmadText + wordLemmad + " "
+        processedSentences = []
+        for sentence in sentences:
+            words = tokenizerWord(sentence)
+            taggedWords = pos_tag(words)
 
-    saveToFile(lemmadText, target)
-    return lemComprehensibleText
+            lemmedWords = []
+            for word in taggedWords:
+                pos = get_wordnet_pos(word[1])
+                if pos != '':
+                    lemmedWord = lemma.lemmatize(word[0], pos)
+                    lemmedWords.append([lemmedWord, pos])
+                else:
+                    if word[0] in stopwords:
+                        pos = "sw"
+                    lemmedWords.append([word[0], pos])
+            
+            processedSentences.append(lemmedWords)
+
+        taggedItems.append([item[0], processedSentences])
+    
+    return taggedItems
+        
 
 
-def saveToFile(text="NaN", target="../../docs/comprehensibleText.txt"):
+def saveToFile(text="na", target="../../docs/comprehensibleText.txt"):
     with open(target, 'w') as file:
         file.write(text)
 
+def tokenizerWord(sentence="na"):
+    allWords = word_tokenize(sentence)
 
-def wordCloudShow(text="NaN"):
-    wordcloud = WordCloud().generate(text)
+    words = []
+    for word in allWords:
+        if word.isalpha():
+            words.append(word.lower())
 
-    plt.figure(figsize = (12, 12))
-    plt.imshow(wordcloud)
-    plt.axis("off")
-    plt.show()
+    return words
 
+def get_wordnet_pos(treebank_tag):
+    if treebank_tag.startswith('J'):
+        return wn.ADJ
+    elif treebank_tag.startswith('V'):
+        return wn.VERB
+    elif treebank_tag.startswith('N'):
+        return wn.NOUN
+    elif treebank_tag.startswith('R'):
+        return wn.ADV
+    else:
+        return ''
+
+def addToJson(json, taggedItems):
+    newJson = []
+    for category in json:
+        newItems = []
+        for item in category['items']:
+            for taggedItem in taggedItems:
+                if item['itemName'] == taggedItem[0]:
+                    newItems.append({
+                        'itemNo' : item['itemNo'],
+                        'itemName' : item['itemName'],
+                        'content' : item['content'],
+                        'contentTagged' : taggedItem[1]
+                    })
+        newJson.append({
+            'title' : category['title'],
+            'items' : newItems
+        })
+
+    return newJson
 
 main()

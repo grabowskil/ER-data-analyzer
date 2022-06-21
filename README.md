@@ -10,3 +10,4 @@ I think the answers are in the text and don't want to wait on the DLC, but when 
 * https://github.com/mechatroner/RBQL
 * https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/Master.html
 * https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+* https://stackoverflow.com/questions/15586721/wordnet-lemmatization-and-pos-tagging-in-python
