@@ -29,7 +29,7 @@ def nlpDialogueMain():
     comprehensibleTextRestructured = restructureDialogue(comprehensibleText)
     comprehensibleTextStripped = stripComprehensibleText(comprehensibleTextRestructured)
     taggedItems = tagComprehensibleText(comprehensibleTextStripped)
-    jsonOut = addToJson(carianArchive, taggedItems, relCategories)
+    jsonOut = addToJson(carianArchive, taggedItems, comprehensibleTextStripped, relCategories)
 
     with open("../../docs/carianArchiveTrans.json", 'w') as outfile:
         json.dump(jsonOut, outfile, indent=2)
@@ -65,13 +65,16 @@ def stripComprehensibleText(comprehensibleText):
 
     return newComprehensibleText
 
-def addToJson(json, taggedItems, relCategories):
+def addToJson(json, taggedItems, originalItems, relCategories):
     newCategory=[]
     for taggeditem in taggedItems:
-        newCategory.append({
-            'itemName' : taggeditem[0],
-            'content' : taggeditem[1]
-        })
+        for item in originalItems:
+            if taggeditem[0] == item[0]:
+                newCategory.append({
+                    'itemName' : taggeditem[0],
+                    'content' : item[1],
+                    'contentTagged' : taggeditem[1]
+                })
 
     newJson = []
     for category in json:
