@@ -118,12 +118,12 @@ def addToJson(json, taggedItems, relCategories):
                 newItem = []
                 for taggedItem in taggedItems:
                     if item['itemName'] == taggedItem[0]:
-                        newItem = [{
+                        newItem = {
                             'itemNo' : item['itemNo'],
                             'itemName' : item['itemName'],
                             'content' : item['content'],
                             'contentTagged' : taggedItem[1]
-                        }]
+                        }
                 if newItem == []:
                     newItem = category['items']
                 newItems.append(newItem)

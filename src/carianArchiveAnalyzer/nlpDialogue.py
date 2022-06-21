@@ -84,6 +84,9 @@ def addToJson(json, taggedItems, originalItems, relCategories):
                 'items' : newCategory
             })
         else:
-            newJson.append(category)
+            newJson.append({
+                'title' : category['title'],
+                'items' : category['items']
+            })
 
     return newJson

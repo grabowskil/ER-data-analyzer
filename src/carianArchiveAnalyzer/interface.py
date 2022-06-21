@@ -5,7 +5,7 @@ import json
 from pyparsing import alphanums
 
 def interfaceMain(
-        target="../../docs/CarianArchive.html",
+    target="../../docs/CarianArchive.html",
         transformedCarianArchiveFile="../../docs/carianArchiveTrans.json"
     ):
     findAllCategories(target, transformedCarianArchiveFile)
