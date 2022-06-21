@@ -22,7 +22,10 @@ def findTimerelatedItems(json, timerelatedWords):
                     if word[0] in timerelatedWords:
                         isTimerelated = True
             if isTimerelated:
-                foundItems.append(item)
+                foundItems.append({
+                    'itemName' : item['itemName'],
+                    'content' : item['content']
+                })
                     
     return foundItems
 
